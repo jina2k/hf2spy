@@ -2,6 +2,7 @@
 comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
 Resources used:
+
 ~ https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy - For finding the CUSIP/ticker symbol of every ticker in the s&p 500
 
 ~ 13fs of hedge funds such as citadel, credit suisse, used to cross-match CUSIP, add total market value.
