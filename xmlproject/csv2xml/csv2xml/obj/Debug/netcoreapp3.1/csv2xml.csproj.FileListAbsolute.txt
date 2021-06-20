@@ -1,0 +1,13 @@
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.exe
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.deps.json
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.runtimeconfig.json
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.runtimeconfig.dev.json
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.dll
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\bin\Debug\netcoreapp3.1\csv2xml.pdb
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.csproj.AssemblyReference.cache
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.AssemblyInfoInputs.cache
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.AssemblyInfo.cs
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.csproj.CoreCompileInputs.cache
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.dll
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.pdb
+D:\liq project\hf2spy\xmlproject\csv2xml\csv2xml\obj\Debug\netcoreapp3.1\csv2xml.genruntimeconfig.cache
