@@ -7,6 +7,9 @@ Resources used:
 
 ~ 13fs of hedge funds such as citadel, credit suisse, used to cross-match CUSIP, add total market value. (XML Format)
 
+~ https://github.com/StefH/XPath2.Net - For documentation on how to use XPath 2.0, crucial for trying to interact between two xml files (s&p 500 holdings csv to xml, compared with the 13fs of hedge funds)
+
+~ stackoverflow
 
 The purpose of this project is to see how much exposure a hedge fund has for each stock. Essentially a modification of whalewisdom by referencing s&p 500 holdings only.
 The data is inaccurate in a way that hedge funds can simply lie and get fined a small amount on their 13fs.
