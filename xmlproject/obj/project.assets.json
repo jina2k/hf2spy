@@ -1,11 +1,40 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "XPath2/1.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/XPath2.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/XPath2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "XPath2/1.1.1": {
+      "sha512": "QwIiGKyg3gUb7P6SWBRJWBNV4VAPPHNbu4XyqHaJMG949ezLAqeINgkN6+SAPwaye0PD00g0kdPRi+YII5/ukg==",
+      "type": "package",
+      "path": "xpath2/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/XPath2.dll",
+        "lib/net40/XPath2.dll",
+        "lib/net452/XPath2.dll",
+        "lib/netstandard2.0/XPath2.dll",
+        "lib/netstandard2.1/XPath2.dll",
+        "xpath2.1.1.1.nupkg.sha512",
+        "xpath2.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "XPath2 >= 1.1.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Anthony\\.nuget\\packages\\": {},
@@ -53,6 +82,12 @@
     "frameworks": {
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "XPath2": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

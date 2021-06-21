@@ -1,9 +1,11 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using System.Security;
 using System.Threading;
 using System.Xml;
 using System.Xml.Linq;
+using Wmhelp.XPath2;
 
 namespace xmlproject
 {
@@ -23,7 +25,7 @@ namespace xmlproject
                     arg1 = "";
                 }
             }
-            
+
             Console.WriteLine("You have chosen: " + arg1);
 
             var doc = new XDocument();
@@ -51,7 +53,7 @@ namespace xmlproject
                     }
                 }
 
-                
+
 
                 try
                 {
@@ -89,7 +91,22 @@ namespace xmlproject
             }
             Console.WriteLine("Loading " + fileloc + "...");
 
+            XNode hedgie = XDocument.Load(fileloc);
+            XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
 
+            XNode result = new XDocument(
+                new XElement("result",
+                (from infotable in hedgie.XPath2SelectElements("//infoTable")
+                 from stock in spydoc.XPath2SelectElements("//Stock")
+                 where (bool)XPath2Expression.Evaluate(@"$i/cusip = $s/CUSIP", new { i = infotable, s = stock })
+                 select new XElement("opStock",
+                     stock.Element("CompanyName"),
+                     stock.Element("CUSIP"),
+                     stock.Element("Ticker"),
+                     infotable.Element("value"),
+                     infotable.Element("putCall")))));
+            //Console.WriteLine(result.ToString());
+            
         }
     }
 }

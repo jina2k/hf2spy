@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cYH9KwabGMMimw6TIbvpseOnYIVas6W/oeuOJEu/u7l7h8zQvNZxS3MpbSb78qCdKE4S18704yjwCd5AlCGpSA==",
+  "dgSpecHash": "rkpbUjpsLkIDzHmy/JVNh4lCNuAS7VNj9jmVIL6NJ4aRzUNg9YeEmN/bzQmif4O4djQ5cs1opyLAomx00vP7SA==",
   "success": true,
   "projectFilePath": "D:\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\xpath2\\1.1.1\\xpath2.1.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
