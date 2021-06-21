@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<result>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>4632783</value>
+    <putCall>Call</putCall>
+  </opStock>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>3860954</value>
+    <putCall>Put</putCall>
+  </opStock>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>548965</value>
+  </opStock>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>27930</value>
+  </opStock>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>116043</value>
+    <putCall>Put</putCall>
+  </opStock>
+  <opStock>
+    <CompanyName>Apple Inc.</CompanyName>
+    <CUSIP>037833100</CUSIP>
+    <Ticker>AAPL</Ticker>
+    <value>168494</value>
+    <putCall>Call</putCall>
+  </opStock>
+</result>

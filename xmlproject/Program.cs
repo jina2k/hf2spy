@@ -91,10 +91,19 @@ namespace xmlproject
             }
             Console.WriteLine("Loading " + fileloc + "...");
 
-            XNode hedgie = XDocument.Load(fileloc);
-            XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
+            XDocument hedgie = XDocument.Load(fileloc);
+            
+            hedgie.Root.Attributes().Where(e => e.IsNamespaceDeclaration).Remove();
+            hedgie.Descendants().Attributes().Where(e => e.IsNamespaceDeclaration).Remove();
+            foreach (var elem in hedgie.Descendants())
+                elem.Name = elem.Name.LocalName;
 
-            XNode result = new XDocument(
+            //hedgie.Save("hedgefile.xml"); //output to test namespace removal
+
+            XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
+            
+            //following code below can use modified doc as-is without saving the file first
+            XDocument result = new XDocument(
                 new XElement("result",
                 (from infotable in hedgie.XPath2SelectElements("//infoTable")
                  from stock in spydoc.XPath2SelectElements("//Stock")
@@ -105,8 +114,8 @@ namespace xmlproject
                      stock.Element("Ticker"),
                      infotable.Element("value"),
                      infotable.Element("putCall")))));
-            //Console.WriteLine(result.ToString());
-            
+
+            result.Save("meme.xml");
         }
     }
 }
