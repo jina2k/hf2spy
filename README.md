@@ -10,6 +10,6 @@ Resources used:
 
 The purpose of this project is to see how much exposure a hedge fund has for each stock. Essentially a modification of whalewisdom by referencing s&p 500 holdings only.
 The data is inaccurate in a way that hedge funds can simply lie and get fined a small amount on their 13fs.
-Calls/Puts are also not actually shares, but are treated the same for an idea of "market value" exposure that hedge funds have for each ticker.
+Calls/Puts are also listed for an idea of "market value" exposure that hedge funds have for each ticker.
 
 This project was done for fun and out of curiosity (informational purposes), seeing how much a hedge fund would "own" in each ticker in the s&p 500.
