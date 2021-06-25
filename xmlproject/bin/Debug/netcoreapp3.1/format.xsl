@@ -8,7 +8,7 @@
 		<tr>
 			<th>Company Name</th>
 			<th>Ticker</th>
-			<th>Market Value</th>
+			<th>Market Value (x$1000)</th>
 			<th>Put/Call</th>
 		</tr>
 		<xsl:for-each select="result/opStock">
