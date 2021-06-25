@@ -3,2526 +3,2526 @@
   <Stock>
     <CompanyName>Apple Inc.</CompanyName>
     <Ticker>AAPL</Ticker>
-    <CUSIP>3783310</CUSIP>
+    <CUSIP>37833100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Microsoft Corporation</CompanyName>
     <Ticker>MSFT</Ticker>
-    <CUSIP>59491810</CUSIP>
+    <CUSIP>594918104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Amazon.com Inc.</CompanyName>
     <Ticker>AMZN</Ticker>
-    <CUSIP>2313510</CUSIP>
+    <CUSIP>23135106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Facebook Inc. Class A</CompanyName>
     <Ticker>FB</Ticker>
-    <CUSIP>30303M10</CUSIP>
+    <CUSIP>30303M102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alphabet Inc. Class A</CompanyName>
     <Ticker>GOOGL</Ticker>
-    <CUSIP>02079K30</CUSIP>
+    <CUSIP>02079K305</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alphabet Inc. Class C</CompanyName>
     <Ticker>GOOG</Ticker>
-    <CUSIP>02079K10</CUSIP>
+    <CUSIP>02079K107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Berkshire Hathaway Inc. Class B</CompanyName>
     <Ticker>BRK.B</Ticker>
-    <CUSIP>8467070</CUSIP>
+    <CUSIP>84670702</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tesla Inc</CompanyName>
     <Ticker>TSLA</Ticker>
-    <CUSIP>88160R10</CUSIP>
+    <CUSIP>88160R101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>JPMorgan Chase &amp; Co.</CompanyName>
     <Ticker>JPM</Ticker>
-    <CUSIP>46625H10</CUSIP>
+    <CUSIP>46625H100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NVIDIA Corporation</CompanyName>
     <Ticker>NVDA</Ticker>
-    <CUSIP>67066G10</CUSIP>
+    <CUSIP>67066G104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Johnson &amp; Johnson</CompanyName>
     <Ticker>JNJ</Ticker>
-    <CUSIP>47816010</CUSIP>
+    <CUSIP>478160104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Visa Inc. Class A</CompanyName>
     <Ticker>V</Ticker>
-    <CUSIP>92826C83</CUSIP>
+    <CUSIP>92826C839</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>UnitedHealth Group Incorporated</CompanyName>
     <Ticker>UNH</Ticker>
-    <CUSIP>91324P10</CUSIP>
+    <CUSIP>91324P102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Procter &amp; Gamble Company</CompanyName>
     <Ticker>PG</Ticker>
-    <CUSIP>74271810</CUSIP>
+    <CUSIP>742718109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Home Depot Inc.</CompanyName>
     <Ticker>HD</Ticker>
-    <CUSIP>43707610</CUSIP>
+    <CUSIP>437076102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PayPal Holdings Inc</CompanyName>
     <Ticker>PYPL</Ticker>
-    <CUSIP>70450Y10</CUSIP>
+    <CUSIP>70450Y103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mastercard Incorporated Class A</CompanyName>
     <Ticker>MA</Ticker>
-    <CUSIP>57636Q10</CUSIP>
+    <CUSIP>57636Q104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Walt Disney Company</CompanyName>
     <Ticker>DIS</Ticker>
-    <CUSIP>25468710</CUSIP>
+    <CUSIP>254687106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Bank of America Corp</CompanyName>
     <Ticker>BAC</Ticker>
-    <CUSIP>6050510</CUSIP>
+    <CUSIP>60505104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Adobe Inc.</CompanyName>
     <Ticker>ADBE</Ticker>
-    <CUSIP>00724F10</CUSIP>
+    <CUSIP>00724F101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Comcast Corporation Class A</CompanyName>
     <Ticker>CMCSA</Ticker>
-    <CUSIP>20030N10</CUSIP>
+    <CUSIP>20030N101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Exxon Mobil Corporation</CompanyName>
     <Ticker>XOM</Ticker>
-    <CUSIP>30231G10</CUSIP>
+    <CUSIP>30231G102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Verizon Communications Inc.</CompanyName>
     <Ticker>VZ</Ticker>
-    <CUSIP>92343V10</CUSIP>
+    <CUSIP>92343V104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Intel Corporation</CompanyName>
     <Ticker>INTC</Ticker>
-    <CUSIP>45814010</CUSIP>
+    <CUSIP>458140100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>salesforce.com inc.</CompanyName>
     <Ticker>CRM</Ticker>
-    <CUSIP>79466L30</CUSIP>
+    <CUSIP>79466L302</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cisco Systems Inc.</CompanyName>
     <Ticker>CSCO</Ticker>
-    <CUSIP>17275R10</CUSIP>
+    <CUSIP>17275R102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Netflix Inc.</CompanyName>
     <Ticker>NFLX</Ticker>
-    <CUSIP>64110L10</CUSIP>
+    <CUSIP>64110L106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pfizer Inc.</CompanyName>
     <Ticker>PFE</Ticker>
-    <CUSIP>71708110</CUSIP>
+    <CUSIP>717081103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Coca-Cola Company</CompanyName>
     <Ticker>KO</Ticker>
-    <CUSIP>19121610</CUSIP>
+    <CUSIP>191216100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Chevron Corporation</CompanyName>
     <Ticker>CVX</Ticker>
-    <CUSIP>16676410</CUSIP>
+    <CUSIP>166764100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AT&amp;T Inc.</CompanyName>
     <Ticker>T</Ticker>
-    <CUSIP>00206R10</CUSIP>
+    <CUSIP>00206R102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PepsiCo Inc.</CompanyName>
     <Ticker>PEP</Ticker>
-    <CUSIP>71344810</CUSIP>
+    <CUSIP>713448108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AbbVie Inc.</CompanyName>
     <Ticker>ABBV</Ticker>
-    <CUSIP>00287Y10</CUSIP>
+    <CUSIP>00287Y109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Abbott Laboratories</CompanyName>
     <Ticker>ABT</Ticker>
-    <CUSIP>282410</CUSIP>
+    <CUSIP>2824100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Merck &amp; Co. Inc.</CompanyName>
     <Ticker>MRK</Ticker>
-    <CUSIP>58933Y10</CUSIP>
+    <CUSIP>58933Y105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Broadcom Inc.</CompanyName>
     <Ticker>AVGO</Ticker>
-    <CUSIP>11135F10</CUSIP>
+    <CUSIP>11135F101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Thermo Fisher Scientific Inc.</CompanyName>
     <Ticker>TMO</Ticker>
-    <CUSIP>88355610</CUSIP>
+    <CUSIP>883556102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Walmart Inc.</CompanyName>
     <Ticker>WMT</Ticker>
-    <CUSIP>93114210</CUSIP>
+    <CUSIP>931142103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Accenture Plc Class A</CompanyName>
     <Ticker>ACN</Ticker>
-    <CUSIP>G1151C10</CUSIP>
+    <CUSIP>G1151C101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Wells Fargo &amp; Company</CompanyName>
     <Ticker>WFC</Ticker>
-    <CUSIP>94974610</CUSIP>
+    <CUSIP>949746101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Eli Lilly and Company</CompanyName>
     <Ticker>LLY</Ticker>
-    <CUSIP>53245710</CUSIP>
+    <CUSIP>532457108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>McDonald's Corporation</CompanyName>
     <Ticker>MCD</Ticker>
-    <CUSIP>58013510</CUSIP>
+    <CUSIP>580135101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Texas Instruments Incorporated</CompanyName>
     <Ticker>TXN</Ticker>
-    <CUSIP>88250810</CUSIP>
+    <CUSIP>882508104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Costco Wholesale Corporation</CompanyName>
     <Ticker>COST</Ticker>
-    <CUSIP>22160K10</CUSIP>
+    <CUSIP>22160K105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Medtronic Plc</CompanyName>
     <Ticker>MDT</Ticker>
-    <CUSIP>G5960L10</CUSIP>
+    <CUSIP>G5960L103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NIKE Inc. Class B</CompanyName>
     <Ticker>NKE</Ticker>
-    <CUSIP>65410610</CUSIP>
+    <CUSIP>654106103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Danaher Corporation</CompanyName>
     <Ticker>DHR</Ticker>
-    <CUSIP>23585110</CUSIP>
+    <CUSIP>235851102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Philip Morris International Inc.</CompanyName>
     <Ticker>PM</Ticker>
-    <CUSIP>71817210</CUSIP>
+    <CUSIP>718172109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Qualcomm Inc</CompanyName>
     <Ticker>QCOM</Ticker>
-    <CUSIP>74752510</CUSIP>
+    <CUSIP>747525103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Honeywell International Inc.</CompanyName>
     <Ticker>HON</Ticker>
-    <CUSIP>43851610</CUSIP>
+    <CUSIP>438516106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Linde plc</CompanyName>
     <Ticker>LIN</Ticker>
-    <CUSIP>G5494J10</CUSIP>
+    <CUSIP>G5494J103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Bristol-Myers Squibb Company</CompanyName>
     <Ticker>BMY</Ticker>
-    <CUSIP>11012210</CUSIP>
+    <CUSIP>110122108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Union Pacific Corporation</CompanyName>
     <Ticker>UNP</Ticker>
-    <CUSIP>90781810</CUSIP>
+    <CUSIP>907818108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NextEra Energy Inc.</CompanyName>
     <Ticker>NEE</Ticker>
-    <CUSIP>65339F10</CUSIP>
+    <CUSIP>65339F101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Oracle Corporation</CompanyName>
     <Ticker>ORCL</Ticker>
-    <CUSIP>68389X10</CUSIP>
+    <CUSIP>68389X105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Citigroup Inc.</CompanyName>
     <Ticker>C</Ticker>
-    <CUSIP>17296742</CUSIP>
+    <CUSIP>172967424</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>United Parcel Service Inc. Class B</CompanyName>
     <Ticker>UPS</Ticker>
-    <CUSIP>91131210</CUSIP>
+    <CUSIP>911312106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Amgen Inc.</CompanyName>
     <Ticker>AMGN</Ticker>
-    <CUSIP>3116210</CUSIP>
+    <CUSIP>31162100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lowe's Companies Inc.</CompanyName>
     <Ticker>LOW</Ticker>
-    <CUSIP>54866110</CUSIP>
+    <CUSIP>548661107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Raytheon Technologies Corporation</CompanyName>
     <Ticker>RTX</Ticker>
-    <CUSIP>7.55E+14</CUSIP>
+    <CUSIP>7.55E+105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Morgan Stanley</CompanyName>
     <Ticker>MS</Ticker>
-    <CUSIP>61744644</CUSIP>
+    <CUSIP>617446448</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Boeing Company</CompanyName>
     <Ticker>BA</Ticker>
-    <CUSIP>9702310</CUSIP>
+    <CUSIP>97023105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Starbucks Corporation</CompanyName>
     <Ticker>SBUX</Ticker>
-    <CUSIP>85524410</CUSIP>
+    <CUSIP>855244109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>International Business Machines Corporation</CompanyName>
     <Ticker>IBM</Ticker>
-    <CUSIP>45920010</CUSIP>
+    <CUSIP>459200101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Intuit Inc.</CompanyName>
     <Ticker>INTU</Ticker>
-    <CUSIP>46120210</CUSIP>
+    <CUSIP>461202103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Applied Materials Inc.</CompanyName>
     <Ticker>AMAT</Ticker>
-    <CUSIP>3822210</CUSIP>
+    <CUSIP>38222105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Goldman Sachs Group Inc.</CompanyName>
     <Ticker>GS</Ticker>
-    <CUSIP>38141G10</CUSIP>
+    <CUSIP>38141G104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>BlackRock Inc.</CompanyName>
     <Ticker>BLK</Ticker>
-    <CUSIP>09247X10</CUSIP>
+    <CUSIP>09247X101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American Tower Corporation</CompanyName>
     <Ticker>AMT</Ticker>
-    <CUSIP>03027X10</CUSIP>
+    <CUSIP>03027X100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Target Corporation</CompanyName>
     <Ticker>TGT</Ticker>
-    <CUSIP>8.76E+14</CUSIP>
+    <CUSIP>8.76E+110</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Caterpillar Inc.</CompanyName>
     <Ticker>CAT</Ticker>
-    <CUSIP>14912310</CUSIP>
+    <CUSIP>149123101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>General Electric Company</CompanyName>
     <Ticker>GE</Ticker>
-    <CUSIP>36960410</CUSIP>
+    <CUSIP>369604103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>3M Company</CompanyName>
     <Ticker>MMM</Ticker>
-    <CUSIP>88579Y10</CUSIP>
+    <CUSIP>88579Y101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CVS Health Corporation</CompanyName>
     <Ticker>CVS</Ticker>
-    <CUSIP>12665010</CUSIP>
+    <CUSIP>126650100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Charles Schwab Corporation</CompanyName>
     <Ticker>SCHW</Ticker>
-    <CUSIP>80851310</CUSIP>
+    <CUSIP>808513105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American Express Company</CompanyName>
     <Ticker>AXP</Ticker>
-    <CUSIP>2581610</CUSIP>
+    <CUSIP>25816109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Intuitive Surgical Inc.</CompanyName>
     <Ticker>ISRG</Ticker>
-    <CUSIP>4.61E+64</CUSIP>
+    <CUSIP>46120E602</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ServiceNow Inc.</CompanyName>
     <Ticker>NOW</Ticker>
-    <CUSIP>81762P10</CUSIP>
+    <CUSIP>81762P102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Deere &amp; Company</CompanyName>
     <Ticker>DE</Ticker>
-    <CUSIP>24419910</CUSIP>
+    <CUSIP>244199105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Advanced Micro Devices Inc.</CompanyName>
     <Ticker>AMD</Ticker>
-    <CUSIP>790310</CUSIP>
+    <CUSIP>7903107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Charter Communications Inc. Class A</CompanyName>
     <Ticker>CHTR</Ticker>
-    <CUSIP>16119P10</CUSIP>
+    <CUSIP>16119P108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>S&amp;P Global Inc.</CompanyName>
     <Ticker>SPGI</Ticker>
-    <CUSIP>78409V10</CUSIP>
+    <CUSIP>78409V104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lockheed Martin Corporation</CompanyName>
     <Ticker>LMT</Ticker>
-    <CUSIP>53983010</CUSIP>
+    <CUSIP>539830109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Booking Holdings Inc.</CompanyName>
     <Ticker>BKNG</Ticker>
-    <CUSIP>09857L10</CUSIP>
+    <CUSIP>09857L108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Anthem Inc.</CompanyName>
     <Ticker>ANTM</Ticker>
-    <CUSIP>3675210</CUSIP>
+    <CUSIP>36752103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lam Research Corporation</CompanyName>
     <Ticker>LRCX</Ticker>
-    <CUSIP>51280710</CUSIP>
+    <CUSIP>512807108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Prologis Inc.</CompanyName>
     <Ticker>PLD</Ticker>
-    <CUSIP>74340W10</CUSIP>
+    <CUSIP>74340W103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fidelity National Information Services Inc.</CompanyName>
     <Ticker>FIS</Ticker>
-    <CUSIP>31620M10</CUSIP>
+    <CUSIP>31620M106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Micron Technology Inc.</CompanyName>
     <Ticker>MU</Ticker>
-    <CUSIP>59511210</CUSIP>
+    <CUSIP>595112103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mondelez International Inc. Class A</CompanyName>
     <Ticker>MDLZ</Ticker>
-    <CUSIP>60920710</CUSIP>
+    <CUSIP>609207105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Zoetis Inc. Class A</CompanyName>
     <Ticker>ZTS</Ticker>
-    <CUSIP>98978V10</CUSIP>
+    <CUSIP>98978V103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Altria Group Inc</CompanyName>
     <Ticker>MO</Ticker>
-    <CUSIP>02209S10</CUSIP>
+    <CUSIP>02209S103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>T-Mobile US Inc.</CompanyName>
     <Ticker>TMUS</Ticker>
-    <CUSIP>87259010</CUSIP>
+    <CUSIP>872590104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Stryker Corporation</CompanyName>
     <Ticker>SYK</Ticker>
-    <CUSIP>86366710</CUSIP>
+    <CUSIP>863667101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Crown Castle International Corp</CompanyName>
     <Ticker>CCI</Ticker>
-    <CUSIP>22822V10</CUSIP>
+    <CUSIP>22822V101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Automatic Data Processing Inc.</CompanyName>
     <Ticker>ADP</Ticker>
-    <CUSIP>5301510</CUSIP>
+    <CUSIP>53015103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Gilead Sciences Inc.</CompanyName>
     <Ticker>GILD</Ticker>
-    <CUSIP>37555810</CUSIP>
+    <CUSIP>375558103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cigna Corporation</CompanyName>
     <Ticker>CI</Ticker>
-    <CUSIP>12552310</CUSIP>
+    <CUSIP>125523100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ConocoPhillips</CompanyName>
     <Ticker>COP</Ticker>
-    <CUSIP>20825C10</CUSIP>
+    <CUSIP>20825C104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Duke Energy Corporation</CompanyName>
     <Ticker>DUK</Ticker>
-    <CUSIP>26441C20</CUSIP>
+    <CUSIP>26441C204</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CME Group Inc. Class A</CompanyName>
     <Ticker>CME</Ticker>
-    <CUSIP>12572Q10</CUSIP>
+    <CUSIP>12572Q105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>TJX Companies Inc</CompanyName>
     <Ticker>TJX</Ticker>
-    <CUSIP>87254010</CUSIP>
+    <CUSIP>872540109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PNC Financial Services Group Inc.</CompanyName>
     <Ticker>PNC</Ticker>
-    <CUSIP>69347510</CUSIP>
+    <CUSIP>693475105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>General Motors Company</CompanyName>
     <Ticker>GM</Ticker>
-    <CUSIP>37045V10</CUSIP>
+    <CUSIP>37045V100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>U.S. Bancorp</CompanyName>
     <Ticker>USB</Ticker>
-    <CUSIP>90297330</CUSIP>
+    <CUSIP>902973304</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CSX Corporation</CompanyName>
     <Ticker>CSX</Ticker>
-    <CUSIP>12640810</CUSIP>
+    <CUSIP>126408103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Truist Financial Corporation</CompanyName>
     <Ticker>TFC</Ticker>
-    <CUSIP>89832Q10</CUSIP>
+    <CUSIP>89832Q109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Equinix Inc.</CompanyName>
     <Ticker>EQIX</Ticker>
-    <CUSIP>29444U70</CUSIP>
+    <CUSIP>29444U700</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Activision Blizzard Inc.</CompanyName>
     <Ticker>ATVI</Ticker>
-    <CUSIP>00507V10</CUSIP>
+    <CUSIP>00507V109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Chubb Limited</CompanyName>
     <Ticker>CB</Ticker>
-    <CUSIP>H1467J10</CUSIP>
+    <CUSIP>H1467J104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Capital One Financial Corporation</CompanyName>
     <Ticker>COF</Ticker>
-    <CUSIP>14040H10</CUSIP>
+    <CUSIP>14040H105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Colgate-Palmolive Company</CompanyName>
     <Ticker>CL</Ticker>
-    <CUSIP>19416210</CUSIP>
+    <CUSIP>194162103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>FedEx Corporation</CompanyName>
     <Ticker>FDX</Ticker>
-    <CUSIP>31428X10</CUSIP>
+    <CUSIP>31428X106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Becton Dickinson and Company</CompanyName>
     <Ticker>BDX</Ticker>
-    <CUSIP>7588710</CUSIP>
+    <CUSIP>75887109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marsh &amp; McLennan Companies Inc.</CompanyName>
     <Ticker>MMC</Ticker>
-    <CUSIP>57174810</CUSIP>
+    <CUSIP>571748102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Estee Lauder Companies Inc. Class A</CompanyName>
     <Ticker>EL</Ticker>
-    <CUSIP>51843910</CUSIP>
+    <CUSIP>518439104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Norfolk Southern Corporation</CompanyName>
     <Ticker>NSC</Ticker>
-    <CUSIP>65584410</CUSIP>
+    <CUSIP>655844108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Southern Company</CompanyName>
     <Ticker>SO</Ticker>
-    <CUSIP>84258710</CUSIP>
+    <CUSIP>842587107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Illumina Inc.</CompanyName>
     <Ticker>ILMN</Ticker>
-    <CUSIP>45232710</CUSIP>
+    <CUSIP>452327109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Air Products and Chemicals Inc.</CompanyName>
     <Ticker>APD</Ticker>
-    <CUSIP>915810</CUSIP>
+    <CUSIP>9158106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Sherwin-Williams Company</CompanyName>
     <Ticker>SHW</Ticker>
-    <CUSIP>82434810</CUSIP>
+    <CUSIP>824348106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fiserv Inc.</CompanyName>
     <Ticker>FISV</Ticker>
-    <CUSIP>33773810</CUSIP>
+    <CUSIP>337738108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Illinois Tool Works Inc.</CompanyName>
     <Ticker>ITW</Ticker>
-    <CUSIP>45230810</CUSIP>
+    <CUSIP>452308109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Intercontinental Exchange Inc.</CompanyName>
     <Ticker>ICE</Ticker>
-    <CUSIP>45866F10</CUSIP>
+    <CUSIP>45866F104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Edwards Lifesciences Corporation</CompanyName>
     <Ticker>EW</Ticker>
-    <CUSIP>2.82E+14</CUSIP>
+    <CUSIP>2.82E+112</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Dominion Energy Inc</CompanyName>
     <Ticker>D</Ticker>
-    <CUSIP>25746U10</CUSIP>
+    <CUSIP>25746U109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Boston Scientific Corporation</CompanyName>
     <Ticker>BSX</Ticker>
-    <CUSIP>10113710</CUSIP>
+    <CUSIP>101137107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Analog Devices Inc.</CompanyName>
     <Ticker>ADI</Ticker>
-    <CUSIP>3265410</CUSIP>
+    <CUSIP>32654105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Autodesk Inc.</CompanyName>
     <Ticker>ADSK</Ticker>
-    <CUSIP>5276910</CUSIP>
+    <CUSIP>52769106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Biogen Inc.</CompanyName>
     <Ticker>BIIB</Ticker>
-    <CUSIP>09062X10</CUSIP>
+    <CUSIP>09062X103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ford Motor Company</CompanyName>
     <Ticker>F</Ticker>
-    <CUSIP>34537086</CUSIP>
+    <CUSIP>345370860</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Moody's Corporation</CompanyName>
     <Ticker>MCO</Ticker>
-    <CUSIP>61536910</CUSIP>
+    <CUSIP>615369105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Northrop Grumman Corporation</CompanyName>
     <Ticker>NOC</Ticker>
-    <CUSIP>66680710</CUSIP>
+    <CUSIP>666807102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Global Payments Inc.</CompanyName>
     <Ticker>GPN</Ticker>
-    <CUSIP>37940X10</CUSIP>
+    <CUSIP>37940X102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Eaton Corp. Plc</CompanyName>
     <Ticker>ETN</Ticker>
-    <CUSIP>G2918310</CUSIP>
+    <CUSIP>G29183103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Regeneron Pharmaceuticals Inc.</CompanyName>
     <Ticker>REGN</Ticker>
-    <CUSIP>75886F10</CUSIP>
+    <CUSIP>75886F107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Emerson Electric Co.</CompanyName>
     <Ticker>EMR</Ticker>
-    <CUSIP>29101110</CUSIP>
+    <CUSIP>291011104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Humana Inc.</CompanyName>
     <Ticker>HUM</Ticker>
-    <CUSIP>44485910</CUSIP>
+    <CUSIP>444859102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NXP Semiconductors NV</CompanyName>
     <Ticker>NXPI</Ticker>
-    <CUSIP>N6596X10</CUSIP>
+    <CUSIP>N6596X109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>HCA Healthcare Inc</CompanyName>
     <Ticker>HCA</Ticker>
-    <CUSIP>40412C10</CUSIP>
+    <CUSIP>40412C101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Waste Management Inc.</CompanyName>
     <Ticker>WM</Ticker>
-    <CUSIP>94106L10</CUSIP>
+    <CUSIP>94106L109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Progressive Corporation</CompanyName>
     <Ticker>PGR</Ticker>
-    <CUSIP>74331510</CUSIP>
+    <CUSIP>743315103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Aon Plc Class A</CompanyName>
     <Ticker>AON</Ticker>
-    <CUSIP>G0403H10</CUSIP>
+    <CUSIP>G0403H108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Dollar General Corporation</CompanyName>
     <Ticker>DG</Ticker>
-    <CUSIP>25667710</CUSIP>
+    <CUSIP>256677105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ecolab Inc.</CompanyName>
     <Ticker>ECL</Ticker>
-    <CUSIP>27886510</CUSIP>
+    <CUSIP>278865100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IDEXX Laboratories Inc.</CompanyName>
     <Ticker>IDXX</Ticker>
-    <CUSIP>45168D10</CUSIP>
+    <CUSIP>45168D104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Freeport-McMoRan Inc.</CompanyName>
     <Ticker>FCX</Ticker>
-    <CUSIP>35671D85</CUSIP>
+    <CUSIP>35671D857</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Newmont Corporation</CompanyName>
     <Ticker>NEM</Ticker>
-    <CUSIP>65163910</CUSIP>
+    <CUSIP>651639106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>KLA Corporation</CompanyName>
     <Ticker>KLAC</Ticker>
-    <CUSIP>48248010</CUSIP>
+    <CUSIP>482480100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Vertex Pharmaceuticals Incorporated</CompanyName>
     <Ticker>VRTX</Ticker>
-    <CUSIP>92532F10</CUSIP>
+    <CUSIP>92532F100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Twitter Inc.</CompanyName>
     <Ticker>TWTR</Ticker>
-    <CUSIP>90184L10</CUSIP>
+    <CUSIP>90184L102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Roper Technologies Inc.</CompanyName>
     <Ticker>ROP</Ticker>
-    <CUSIP>77669610</CUSIP>
+    <CUSIP>776696106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>EOG Resources Inc.</CompanyName>
     <Ticker>EOG</Ticker>
-    <CUSIP>26875P10</CUSIP>
+    <CUSIP>26875P101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Johnson Controls International plc</CompanyName>
     <Ticker>JCI</Ticker>
-    <CUSIP>G5150210</CUSIP>
+    <CUSIP>G51502105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Dow Inc.</CompanyName>
     <Ticker>DOW</Ticker>
-    <CUSIP>26055710</CUSIP>
+    <CUSIP>260557103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IQVIA Holdings Inc</CompanyName>
     <Ticker>IQV</Ticker>
-    <CUSIP>46266C10</CUSIP>
+    <CUSIP>46266C105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Schlumberger NV</CompanyName>
     <Ticker>SLB</Ticker>
-    <CUSIP>80685710</CUSIP>
+    <CUSIP>806857108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>L3Harris Technologies Inc</CompanyName>
     <Ticker>LHX</Ticker>
-    <CUSIP>50243110</CUSIP>
+    <CUSIP>502431109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>MetLife Inc.</CompanyName>
     <Ticker>MET</Ticker>
-    <CUSIP>59156R10</CUSIP>
+    <CUSIP>59156R108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Public Storage</CompanyName>
     <Ticker>PSA</Ticker>
-    <CUSIP>74460D10</CUSIP>
+    <CUSIP>74460D109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Exelon Corporation</CompanyName>
     <Ticker>EXC</Ticker>
-    <CUSIP>30161N10</CUSIP>
+    <CUSIP>30161N101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Agilent Technologies Inc.</CompanyName>
     <Ticker>A</Ticker>
-    <CUSIP>00846U10</CUSIP>
+    <CUSIP>00846U101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>TE Connectivity Ltd.</CompanyName>
     <Ticker>TEL</Ticker>
-    <CUSIP>H8498910</CUSIP>
+    <CUSIP>H84989104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Align Technology Inc.</CompanyName>
     <Ticker>ALGN</Ticker>
-    <CUSIP>1625510</CUSIP>
+    <CUSIP>16255101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Digital Realty Trust Inc.</CompanyName>
     <Ticker>DLR</Ticker>
-    <CUSIP>25386810</CUSIP>
+    <CUSIP>253868103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kimberly-Clark Corporation</CompanyName>
     <Ticker>KMB</Ticker>
-    <CUSIP>49436810</CUSIP>
+    <CUSIP>494368103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>T. Rowe Price Group</CompanyName>
     <Ticker>TROW</Ticker>
-    <CUSIP>74144T10</CUSIP>
+    <CUSIP>74144T108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>General Dynamics Corporation</CompanyName>
     <Ticker>GD</Ticker>
-    <CUSIP>36955010</CUSIP>
+    <CUSIP>369550108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Centene Corporation</CompanyName>
     <Ticker>CNC</Ticker>
-    <CUSIP>15135B10</CUSIP>
+    <CUSIP>15135B101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Trane Technologies plc</CompanyName>
     <Ticker>TT</Ticker>
-    <CUSIP>G8994E10</CUSIP>
+    <CUSIP>G8994E103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Sempra Energy</CompanyName>
     <Ticker>SRE</Ticker>
-    <CUSIP>81685110</CUSIP>
+    <CUSIP>816851109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Simon Property Group Inc.</CompanyName>
     <Ticker>SPG</Ticker>
-    <CUSIP>82880610</CUSIP>
+    <CUSIP>828806109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>eBay Inc.</CompanyName>
     <Ticker>EBAY</Ticker>
-    <CUSIP>27864210</CUSIP>
+    <CUSIP>278642103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American International Group Inc.</CompanyName>
     <Ticker>AIG</Ticker>
-    <CUSIP>2687478</CUSIP>
+    <CUSIP>26874784</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ross Stores Inc.</CompanyName>
     <Ticker>ROST</Ticker>
-    <CUSIP>77829610</CUSIP>
+    <CUSIP>778296103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American Electric Power Company Inc.</CompanyName>
     <Ticker>AEP</Ticker>
-    <CUSIP>2553710</CUSIP>
+    <CUSIP>25537101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DuPont de Nemours Inc.</CompanyName>
     <Ticker>DD</Ticker>
-    <CUSIP>26614N10</CUSIP>
+    <CUSIP>26614N102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>MSCI Inc. Class A</CompanyName>
     <Ticker>MSCI</Ticker>
-    <CUSIP>55354G10</CUSIP>
+    <CUSIP>55354G100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IHS Markit Ltd.</CompanyName>
     <Ticker>INFO</Ticker>
-    <CUSIP>G4756710</CUSIP>
+    <CUSIP>G47567105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Baxter International Inc.</CompanyName>
     <Ticker>BAX</Ticker>
-    <CUSIP>7181310</CUSIP>
+    <CUSIP>71813109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Aptiv PLC</CompanyName>
     <Ticker>APTV</Ticker>
-    <CUSIP>G6095L10</CUSIP>
+    <CUSIP>G6095L109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Electronic Arts Inc.</CompanyName>
     <Ticker>EA</Ticker>
-    <CUSIP>28551210</CUSIP>
+    <CUSIP>285512109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PPG Industries Inc.</CompanyName>
     <Ticker>PPG</Ticker>
-    <CUSIP>69350610</CUSIP>
+    <CUSIP>693506107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Microchip Technology Incorporated</CompanyName>
     <Ticker>MCHP</Ticker>
-    <CUSIP>59501710</CUSIP>
+    <CUSIP>595017104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Synopsys Inc.</CompanyName>
     <Ticker>SNPS</Ticker>
-    <CUSIP>87160710</CUSIP>
+    <CUSIP>871607107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Amphenol Corporation Class A</CompanyName>
     <Ticker>APH</Ticker>
-    <CUSIP>3209510</CUSIP>
+    <CUSIP>32095101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Prudential Financial Inc.</CompanyName>
     <Ticker>PRU</Ticker>
-    <CUSIP>74432010</CUSIP>
+    <CUSIP>744320102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Bank of New York Mellon Corporation</CompanyName>
     <Ticker>BK</Ticker>
-    <CUSIP>6405810</CUSIP>
+    <CUSIP>64058100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marathon Petroleum Corporation</CompanyName>
     <Ticker>MPC</Ticker>
-    <CUSIP>56585A10</CUSIP>
+    <CUSIP>56585A102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DexCom Inc.</CompanyName>
     <Ticker>DXCM</Ticker>
-    <CUSIP>25213110</CUSIP>
+    <CUSIP>252131107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alexion Pharmaceuticals Inc.</CompanyName>
     <Ticker>ALXN</Ticker>
-    <CUSIP>1535110</CUSIP>
+    <CUSIP>15351109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Chipotle Mexican Grill Inc.</CompanyName>
     <Ticker>CMG</Ticker>
-    <CUSIP>16965610</CUSIP>
+    <CUSIP>169656105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Constellation Brands Inc. Class A</CompanyName>
     <Ticker>STZ</Ticker>
-    <CUSIP>21036P10</CUSIP>
+    <CUSIP>21036P108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Sysco Corporation</CompanyName>
     <Ticker>SYY</Ticker>
-    <CUSIP>87182910</CUSIP>
+    <CUSIP>871829107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Allstate Corporation</CompanyName>
     <Ticker>ALL</Ticker>
-    <CUSIP>2000210</CUSIP>
+    <CUSIP>20002101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Walgreens Boots Alliance Inc</CompanyName>
     <Ticker>WBA</Ticker>
-    <CUSIP>93142710</CUSIP>
+    <CUSIP>931427108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Phillips 66</CompanyName>
     <Ticker>PSX</Ticker>
-    <CUSIP>71854610</CUSIP>
+    <CUSIP>718546104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>O'Reilly Automotive Inc.</CompanyName>
     <Ticker>ORLY</Ticker>
-    <CUSIP>67103H10</CUSIP>
+    <CUSIP>67103H107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marriott International Inc. Class A</CompanyName>
     <Ticker>MAR</Ticker>
-    <CUSIP>57190320</CUSIP>
+    <CUSIP>571903202</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Carrier Global Corp.</CompanyName>
     <Ticker>CARR</Ticker>
-    <CUSIP>14448C10</CUSIP>
+    <CUSIP>14448C104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Travelers Companies Inc.</CompanyName>
     <Ticker>TRV</Ticker>
-    <CUSIP>8.94E+14</CUSIP>
+    <CUSIP>8.94E+113</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>General Mills Inc.</CompanyName>
     <Ticker>GIS</Ticker>
-    <CUSIP>37033410</CUSIP>
+    <CUSIP>370334104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Parker-Hannifin Corporation</CompanyName>
     <Ticker>PH</Ticker>
-    <CUSIP>70109410</CUSIP>
+    <CUSIP>701094104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cognizant Technology Solutions Corporation Class A</CompanyName>
     <Ticker>CTSH</Ticker>
-    <CUSIP>19244610</CUSIP>
+    <CUSIP>192446102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cadence Design Systems Inc.</CompanyName>
     <Ticker>CDNS</Ticker>
-    <CUSIP>12738710</CUSIP>
+    <CUSIP>127387108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>TransDigm Group Incorporated</CompanyName>
     <Ticker>TDG</Ticker>
-    <CUSIP>89364110</CUSIP>
+    <CUSIP>893641100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>International Flavors &amp; Fragrances Inc.</CompanyName>
     <Ticker>IFF</Ticker>
-    <CUSIP>45950610</CUSIP>
+    <CUSIP>459506101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Xcel Energy Inc.</CompanyName>
     <Ticker>XEL</Ticker>
-    <CUSIP>98389B10</CUSIP>
+    <CUSIP>98389B100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Discover Financial Services</CompanyName>
     <Ticker>DFS</Ticker>
-    <CUSIP>25470910</CUSIP>
+    <CUSIP>254709108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>HP Inc.</CompanyName>
     <Ticker>HPQ</Ticker>
-    <CUSIP>40434L10</CUSIP>
+    <CUSIP>40434L105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kinder Morgan Inc Class P</CompanyName>
     <Ticker>KMI</Ticker>
-    <CUSIP>49456B10</CUSIP>
+    <CUSIP>49456B101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Motorola Solutions Inc.</CompanyName>
     <Ticker>MSI</Ticker>
-    <CUSIP>62007630</CUSIP>
+    <CUSIP>620076307</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>SBA Communications Corp. Class A</CompanyName>
     <Ticker>SBAC</Ticker>
-    <CUSIP>78410G10</CUSIP>
+    <CUSIP>78410G104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cummins Inc.</CompanyName>
     <Ticker>CMI</Ticker>
-    <CUSIP>23102110</CUSIP>
+    <CUSIP>231021106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Yum! Brands Inc.</CompanyName>
     <Ticker>YUM</Ticker>
-    <CUSIP>98849810</CUSIP>
+    <CUSIP>988498101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hilton Worldwide Holdings Inc</CompanyName>
     <Ticker>HLT</Ticker>
-    <CUSIP>43300A20</CUSIP>
+    <CUSIP>43300A203</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ResMed Inc.</CompanyName>
     <Ticker>RMD</Ticker>
-    <CUSIP>76115210</CUSIP>
+    <CUSIP>761152107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Archer-Daniels-Midland Company</CompanyName>
     <Ticker>ADM</Ticker>
-    <CUSIP>3948310</CUSIP>
+    <CUSIP>39483102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Aflac Incorporated</CompanyName>
     <Ticker>AFL</Ticker>
-    <CUSIP>105510</CUSIP>
+    <CUSIP>1055102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Monster Beverage Corporation</CompanyName>
     <Ticker>MNST</Ticker>
-    <CUSIP>61174X10</CUSIP>
+    <CUSIP>61174X109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Welltower Inc.</CompanyName>
     <Ticker>WELL</Ticker>
-    <CUSIP>95040Q10</CUSIP>
+    <CUSIP>95040Q104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Paychex Inc.</CompanyName>
     <Ticker>PAYX</Ticker>
-    <CUSIP>70432610</CUSIP>
+    <CUSIP>704326107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Zimmer Biomet Holdings Inc.</CompanyName>
     <Ticker>ZBH</Ticker>
-    <CUSIP>98956P10</CUSIP>
+    <CUSIP>98956P102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Southwest Airlines Co.</CompanyName>
     <Ticker>LUV</Ticker>
-    <CUSIP>84474110</CUSIP>
+    <CUSIP>844741108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Otis Worldwide Corporation</CompanyName>
     <Ticker>OTIS</Ticker>
-    <CUSIP>68902V10</CUSIP>
+    <CUSIP>68902V107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Williams Companies Inc.</CompanyName>
     <Ticker>WMB</Ticker>
-    <CUSIP>96945710</CUSIP>
+    <CUSIP>969457100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Xilinx Inc.</CompanyName>
     <Ticker>XLNX</Ticker>
-    <CUSIP>98391910</CUSIP>
+    <CUSIP>983919101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Corteva Inc</CompanyName>
     <Ticker>CTVA</Ticker>
-    <CUSIP>22052L10</CUSIP>
+    <CUSIP>22052L104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Valero Energy Corporation</CompanyName>
     <Ticker>VLO</Ticker>
-    <CUSIP>91913Y10</CUSIP>
+    <CUSIP>91913Y100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fortinet Inc.</CompanyName>
     <Ticker>FTNT</Ticker>
-    <CUSIP>3.50E+14</CUSIP>
+    <CUSIP>3.50E+113</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pioneer Natural Resources Company</CompanyName>
     <Ticker>PXD</Ticker>
-    <CUSIP>72378710</CUSIP>
+    <CUSIP>723787107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mettler-Toledo International Inc.</CompanyName>
     <Ticker>MTD</Ticker>
-    <CUSIP>59268810</CUSIP>
+    <CUSIP>592688105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cintas Corporation</CompanyName>
     <Ticker>CTAS</Ticker>
-    <CUSIP>17290810</CUSIP>
+    <CUSIP>172908105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>First Republic Bank</CompanyName>
     <Ticker>FRC</Ticker>
-    <CUSIP>33616C10</CUSIP>
+    <CUSIP>33616C100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Rockwell Automation Inc.</CompanyName>
     <Ticker>ROK</Ticker>
-    <CUSIP>77390310</CUSIP>
+    <CUSIP>773903109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Stanley Black &amp; Decker Inc.</CompanyName>
     <Ticker>SWK</Ticker>
-    <CUSIP>85450210</CUSIP>
+    <CUSIP>854502101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PACCAR Inc</CompanyName>
     <Ticker>PCAR</Ticker>
-    <CUSIP>69371810</CUSIP>
+    <CUSIP>693718108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Public Service Enterprise Group Inc</CompanyName>
     <Ticker>PEG</Ticker>
-    <CUSIP>74457310</CUSIP>
+    <CUSIP>744573106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AMETEK Inc.</CompanyName>
     <Ticker>AME</Ticker>
-    <CUSIP>3110010</CUSIP>
+    <CUSIP>31100100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AutoZone Inc.</CompanyName>
     <Ticker>AZO</Ticker>
-    <CUSIP>5333210</CUSIP>
+    <CUSIP>53332102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Corning Inc</CompanyName>
     <Ticker>GLW</Ticker>
-    <CUSIP>21935010</CUSIP>
+    <CUSIP>219350105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>McKesson Corporation</CompanyName>
     <Ticker>MCK</Ticker>
-    <CUSIP>58155Q10</CUSIP>
+    <CUSIP>58155Q103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Willis Towers Watson Public Limited Company</CompanyName>
     <Ticker>WLTW</Ticker>
-    <CUSIP>G9662910</CUSIP>
+    <CUSIP>G96629103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kroger Co.</CompanyName>
     <Ticker>KR</Ticker>
-    <CUSIP>50104410</CUSIP>
+    <CUSIP>501044101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American Water Works Company Inc.</CompanyName>
     <Ticker>AWK</Ticker>
-    <CUSIP>3042010</CUSIP>
+    <CUSIP>30420103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>D.R. Horton Inc.</CompanyName>
     <Ticker>DHI</Ticker>
-    <CUSIP>23331A10</CUSIP>
+    <CUSIP>23331A109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CBRE Group Inc. Class A</CompanyName>
     <Ticker>CBRE</Ticker>
-    <CUSIP>12504L10</CUSIP>
+    <CUSIP>12504L109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AvalonBay Communities Inc.</CompanyName>
     <Ticker>AVB</Ticker>
-    <CUSIP>5348410</CUSIP>
+    <CUSIP>53484101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>WEC Energy Group Inc</CompanyName>
     <Ticker>WEC</Ticker>
-    <CUSIP>92939U10</CUSIP>
+    <CUSIP>92939U106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>State Street Corporation</CompanyName>
     <Ticker>STT</Ticker>
-    <CUSIP>85747710</CUSIP>
+    <CUSIP>857477103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ANSYS Inc.</CompanyName>
     <Ticker>ANSS</Ticker>
-    <CUSIP>03662Q10</CUSIP>
+    <CUSIP>03662Q105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fastenal Company</CompanyName>
     <Ticker>FAST</Ticker>
-    <CUSIP>31190010</CUSIP>
+    <CUSIP>311900104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ameriprise Financial Inc.</CompanyName>
     <Ticker>AMP</Ticker>
-    <CUSIP>03076C10</CUSIP>
+    <CUSIP>03076C106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Equifax Inc.</CompanyName>
     <Ticker>EFX</Ticker>
-    <CUSIP>29442910</CUSIP>
+    <CUSIP>294429105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Delta Air Lines Inc.</CompanyName>
     <Ticker>DAL</Ticker>
-    <CUSIP>24736170</CUSIP>
+    <CUSIP>247361702</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Skyworks Solutions Inc.</CompanyName>
     <Ticker>SWKS</Ticker>
-    <CUSIP>83088M10</CUSIP>
+    <CUSIP>83088M102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Nucor Corporation</CompanyName>
     <Ticker>NUE</Ticker>
-    <CUSIP>67034610</CUSIP>
+    <CUSIP>670346105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Eversource Energy</CompanyName>
     <Ticker>ES</Ticker>
-    <CUSIP>30040W10</CUSIP>
+    <CUSIP>30040W108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>SVB Financial Group</CompanyName>
     <Ticker>SIVB</Ticker>
-    <CUSIP>78486Q10</CUSIP>
+    <CUSIP>78486Q101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Verisk Analytics Inc</CompanyName>
     <Ticker>VRSK</Ticker>
-    <CUSIP>92345Y10</CUSIP>
+    <CUSIP>92345Y106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Keysight Technologies Inc</CompanyName>
     <Ticker>KEYS</Ticker>
-    <CUSIP>49338L10</CUSIP>
+    <CUSIP>49338L103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Maxim Integrated Products Inc.</CompanyName>
     <Ticker>MXIM</Ticker>
-    <CUSIP>57772K10</CUSIP>
+    <CUSIP>57772K101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Equity Residential</CompanyName>
     <Ticker>EQR</Ticker>
-    <CUSIP>29476L10</CUSIP>
+    <CUSIP>29476L107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fifth Third Bancorp</CompanyName>
     <Ticker>FITB</Ticker>
-    <CUSIP>31677310</CUSIP>
+    <CUSIP>316773100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Arthur J. Gallagher &amp; Co.</CompanyName>
     <Ticker>AJG</Ticker>
-    <CUSIP>36357610</CUSIP>
+    <CUSIP>363576109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Zebra Technologies Corporation Class A</CompanyName>
     <Ticker>ZBRA</Ticker>
-    <CUSIP>98920710</CUSIP>
+    <CUSIP>989207105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kraft Heinz Company</CompanyName>
     <Ticker>KHC</Ticker>
-    <CUSIP>50075410</CUSIP>
+    <CUSIP>500754106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Copart Inc.</CompanyName>
     <Ticker>CPRT</Ticker>
-    <CUSIP>21720410</CUSIP>
+    <CUSIP>217204106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>LyondellBasell Industries NV</CompanyName>
     <Ticker>LYB</Ticker>
-    <CUSIP>N5374510</CUSIP>
+    <CUSIP>N53745100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ball Corporation</CompanyName>
     <Ticker>BLL</Ticker>
-    <CUSIP>5849810</CUSIP>
+    <CUSIP>58498106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Consolidated Edison Inc.</CompanyName>
     <Ticker>ED</Ticker>
-    <CUSIP>20911510</CUSIP>
+    <CUSIP>209115104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>West Pharmaceutical Services Inc.</CompanyName>
     <Ticker>WST</Ticker>
-    <CUSIP>95530610</CUSIP>
+    <CUSIP>955306105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DTE Energy Company</CompanyName>
     <Ticker>DTE</Ticker>
-    <CUSIP>23333110</CUSIP>
+    <CUSIP>233331107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kansas City Southern</CompanyName>
     <Ticker>KSU</Ticker>
-    <CUSIP>48517030</CUSIP>
+    <CUSIP>485170302</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lennar Corporation Class A</CompanyName>
     <Ticker>LEN</Ticker>
-    <CUSIP>52605710</CUSIP>
+    <CUSIP>526057104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>V.F. Corporation</CompanyName>
     <Ticker>VFC</Ticker>
-    <CUSIP>91820410</CUSIP>
+    <CUSIP>918204108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Synchrony Financial</CompanyName>
     <Ticker>SYF</Ticker>
-    <CUSIP>87165B10</CUSIP>
+    <CUSIP>87165B103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Realty Income Corporation</CompanyName>
     <Ticker>O</Ticker>
-    <CUSIP>75610910</CUSIP>
+    <CUSIP>756109104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Weyerhaeuser Company</CompanyName>
     <Ticker>WY</Ticker>
-    <CUSIP>96216610</CUSIP>
+    <CUSIP>962166104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hershey Company</CompanyName>
     <Ticker>HSY</Ticker>
-    <CUSIP>42786610</CUSIP>
+    <CUSIP>427866108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Laboratory Corporation of America Holdings</CompanyName>
     <Ticker>LH</Ticker>
-    <CUSIP>50540R40</CUSIP>
+    <CUSIP>50540R409</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Best Buy Co. Inc.</CompanyName>
     <Ticker>BBY</Ticker>
-    <CUSIP>8651610</CUSIP>
+    <CUSIP>86516101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cerner Corporation</CompanyName>
     <Ticker>CERN</Ticker>
-    <CUSIP>15678210</CUSIP>
+    <CUSIP>156782104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ONEOK Inc.</CompanyName>
     <Ticker>OKE</Ticker>
-    <CUSIP>68268010</CUSIP>
+    <CUSIP>682680103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Old Dominion Freight Line Inc.</CompanyName>
     <Ticker>ODFL</Ticker>
-    <CUSIP>67958010</CUSIP>
+    <CUSIP>679580100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CDW Corp.</CompanyName>
     <Ticker>CDW</Ticker>
-    <CUSIP>12514G10</CUSIP>
+    <CUSIP>12514G108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Generac Holdings Inc.</CompanyName>
     <Ticker>GNRC</Ticker>
-    <CUSIP>36873610</CUSIP>
+    <CUSIP>368736104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Dollar Tree Inc.</CompanyName>
     <Ticker>DLTR</Ticker>
-    <CUSIP>25674610</CUSIP>
+    <CUSIP>256746108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>International Paper Company</CompanyName>
     <Ticker>IP</Ticker>
-    <CUSIP>46014610</CUSIP>
+    <CUSIP>460146103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Occidental Petroleum Corporation</CompanyName>
     <Ticker>OXY</Ticker>
-    <CUSIP>67459910</CUSIP>
+    <CUSIP>674599105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ViacomCBS Inc. Class B</CompanyName>
     <Ticker>VIAC</Ticker>
-    <CUSIP>92556H20</CUSIP>
+    <CUSIP>92556H206</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fortive Corp.</CompanyName>
     <Ticker>FTV</Ticker>
-    <CUSIP>34959J10</CUSIP>
+    <CUSIP>34959J108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Northern Trust Corporation</CompanyName>
     <Ticker>NTRS</Ticker>
-    <CUSIP>66585910</CUSIP>
+    <CUSIP>665859104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hess Corporation</CompanyName>
     <Ticker>HES</Ticker>
-    <CUSIP>42809H10</CUSIP>
+    <CUSIP>42809H107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alexandria Real Estate Equities Inc.</CompanyName>
     <Ticker>ARE</Ticker>
-    <CUSIP>1527110</CUSIP>
+    <CUSIP>15271109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Republic Services Inc.</CompanyName>
     <Ticker>RSG</Ticker>
-    <CUSIP>76075910</CUSIP>
+    <CUSIP>760759100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Expedia Group Inc.</CompanyName>
     <Ticker>EXPE</Ticker>
-    <CUSIP>30212P30</CUSIP>
+    <CUSIP>30212P303</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Carnival Corporation</CompanyName>
     <Ticker>CCL</Ticker>
-    <CUSIP>14365830</CUSIP>
+    <CUSIP>143658300</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hartford Financial Services Group Inc.</CompanyName>
     <Ticker>HIG</Ticker>
-    <CUSIP>41651510</CUSIP>
+    <CUSIP>416515104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>VeriSign Inc.</CompanyName>
     <Ticker>VRSN</Ticker>
-    <CUSIP>9.23E+14</CUSIP>
+    <CUSIP>9.23E+106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Clorox Company</CompanyName>
     <Ticker>CLX</Ticker>
-    <CUSIP>18905410</CUSIP>
+    <CUSIP>189054109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Vulcan Materials Company</CompanyName>
     <Ticker>VMC</Ticker>
-    <CUSIP>92916010</CUSIP>
+    <CUSIP>929160109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PPL Corporation</CompanyName>
     <Ticker>PPL</Ticker>
-    <CUSIP>69351T10</CUSIP>
+    <CUSIP>69351T106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>FLEETCOR Technologies Inc.</CompanyName>
     <Ticker>FLT</Ticker>
-    <CUSIP>33904110</CUSIP>
+    <CUSIP>339041105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>McCormick &amp; Company Incorporated</CompanyName>
     <Ticker>MKC</Ticker>
-    <CUSIP>57978020</CUSIP>
+    <CUSIP>579780206</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tyson Foods Inc. Class A</CompanyName>
     <Ticker>TSN</Ticker>
-    <CUSIP>90249410</CUSIP>
+    <CUSIP>902494103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ventas Inc.</CompanyName>
     <Ticker>VTR</Ticker>
-    <CUSIP>92276F10</CUSIP>
+    <CUSIP>92276F100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Western Digital Corporation</CompanyName>
     <Ticker>WDC</Ticker>
-    <CUSIP>95810210</CUSIP>
+    <CUSIP>958102105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Caesars Entertainment Inc</CompanyName>
     <Ticker>CZR</Ticker>
-    <CUSIP>12769G10</CUSIP>
+    <CUSIP>12769G100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Edison International</CompanyName>
     <Ticker>EIX</Ticker>
-    <CUSIP>28102010</CUSIP>
+    <CUSIP>281020107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Teradyne Inc.</CompanyName>
     <Ticker>TER</Ticker>
-    <CUSIP>88077010</CUSIP>
+    <CUSIP>880770102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Entergy Corporation</CompanyName>
     <Ticker>ETR</Ticker>
-    <CUSIP>29364G10</CUSIP>
+    <CUSIP>29364G103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Waters Corporation</CompanyName>
     <Ticker>WAT</Ticker>
-    <CUSIP>94184810</CUSIP>
+    <CUSIP>941848103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>United Rentals Inc.</CompanyName>
     <Ticker>URI</Ticker>
-    <CUSIP>91136310</CUSIP>
+    <CUSIP>911363109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Etsy Inc.</CompanyName>
     <Ticker>ETSY</Ticker>
-    <CUSIP>29786A10</CUSIP>
+    <CUSIP>29786A106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Garmin Ltd.</CompanyName>
     <Ticker>GRMN</Ticker>
-    <CUSIP>H2906T10</CUSIP>
+    <CUSIP>H2906T109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ameren Corporation</CompanyName>
     <Ticker>AEE</Ticker>
-    <CUSIP>2360810</CUSIP>
+    <CUSIP>23608102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Extra Space Storage Inc.</CompanyName>
     <Ticker>EXR</Ticker>
-    <CUSIP>30225T10</CUSIP>
+    <CUSIP>30225T102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Martin Marietta Materials Inc.</CompanyName>
     <Ticker>MLM</Ticker>
-    <CUSIP>57328410</CUSIP>
+    <CUSIP>573284106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Church &amp; Dwight Co. Inc.</CompanyName>
     <Ticker>CHD</Ticker>
-    <CUSIP>17134010</CUSIP>
+    <CUSIP>171340102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Dover Corporation</CompanyName>
     <Ticker>DOV</Ticker>
-    <CUSIP>26000310</CUSIP>
+    <CUSIP>260003108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Gartner Inc.</CompanyName>
     <Ticker>IT</Ticker>
-    <CUSIP>36665110</CUSIP>
+    <CUSIP>366651107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Nasdaq Inc.</CompanyName>
     <Ticker>NDAQ</Ticker>
-    <CUSIP>63110310</CUSIP>
+    <CUSIP>631103108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Expeditors International of Washington Inc.</CompanyName>
     <Ticker>EXPD</Ticker>
-    <CUSIP>30213010</CUSIP>
+    <CUSIP>302130109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Xylem Inc.</CompanyName>
     <Ticker>XYL</Ticker>
-    <CUSIP>98419M10</CUSIP>
+    <CUSIP>98419M100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Qorvo Inc.</CompanyName>
     <Ticker>QRVO</Ticker>
-    <CUSIP>74736K10</CUSIP>
+    <CUSIP>74736K101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>FirstEnergy Corp.</CompanyName>
     <Ticker>FE</Ticker>
-    <CUSIP>33793210</CUSIP>
+    <CUSIP>337932107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Enphase Energy Inc.</CompanyName>
     <Ticker>ENPH</Ticker>
-    <CUSIP>29355A10</CUSIP>
+    <CUSIP>29355A107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tractor Supply Company</CompanyName>
     <Ticker>TSCO</Ticker>
-    <CUSIP>89235610</CUSIP>
+    <CUSIP>892356106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Arista Networks Inc.</CompanyName>
     <Ticker>ANET</Ticker>
-    <CUSIP>4041310</CUSIP>
+    <CUSIP>40413106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Halliburton Company</CompanyName>
     <Ticker>HAL</Ticker>
-    <CUSIP>40621610</CUSIP>
+    <CUSIP>406216101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Essex Property Trust Inc.</CompanyName>
     <Ticker>ESS</Ticker>
-    <CUSIP>29717810</CUSIP>
+    <CUSIP>297178105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Huntington Bancshares Incorporated</CompanyName>
     <Ticker>HBAN</Ticker>
-    <CUSIP>44615010</CUSIP>
+    <CUSIP>446150104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>KeyCorp</CompanyName>
     <Ticker>KEY</Ticker>
-    <CUSIP>49326710</CUSIP>
+    <CUSIP>493267108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Teledyne Technologies Incorporated</CompanyName>
     <Ticker>TDY</Ticker>
-    <CUSIP>87936010</CUSIP>
+    <CUSIP>879360105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Take-Two Interactive Software Inc.</CompanyName>
     <Ticker>TTWO</Ticker>
-    <CUSIP>87405410</CUSIP>
+    <CUSIP>874054109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Trimble Inc.</CompanyName>
     <Ticker>TRMB</Ticker>
-    <CUSIP>89623910</CUSIP>
+    <CUSIP>896239100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>STERIS Plc</CompanyName>
     <Ticker>STE</Ticker>
-    <CUSIP>G8473T10</CUSIP>
+    <CUSIP>G8473T100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mid-America Apartment Communities Inc.</CompanyName>
     <Ticker>MAA</Ticker>
-    <CUSIP>59522J10</CUSIP>
+    <CUSIP>59522J103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>W.W. Grainger Inc.</CompanyName>
     <Ticker>GWW</Ticker>
-    <CUSIP>38480210</CUSIP>
+    <CUSIP>384802104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Citizens Financial Group Inc.</CompanyName>
     <Ticker>CFG</Ticker>
-    <CUSIP>17461010</CUSIP>
+    <CUSIP>174610105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hewlett Packard Enterprise Co.</CompanyName>
     <Ticker>HPE</Ticker>
-    <CUSIP>42824C10</CUSIP>
+    <CUSIP>42824C109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Albemarle Corporation</CompanyName>
     <Ticker>ALB</Ticker>
-    <CUSIP>1265310</CUSIP>
+    <CUSIP>12653101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>M&amp;T Bank Corporation</CompanyName>
     <Ticker>MTB</Ticker>
-    <CUSIP>55261F10</CUSIP>
+    <CUSIP>55261F104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Akamai Technologies Inc.</CompanyName>
     <Ticker>AKAM</Ticker>
-    <CUSIP>00971T10</CUSIP>
+    <CUSIP>00971T101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Regions Financial Corporation</CompanyName>
     <Ticker>RF</Ticker>
-    <CUSIP>7591EP10</CUSIP>
+    <CUSIP>7591EP100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Royal Caribbean Group</CompanyName>
     <Ticker>RCL</Ticker>
-    <CUSIP>V7780T10</CUSIP>
+    <CUSIP>V7780T103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CarMax Inc.</CompanyName>
     <Ticker>KMX</Ticker>
-    <CUSIP>14313010</CUSIP>
+    <CUSIP>143130102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Teleflex Incorporated</CompanyName>
     <Ticker>TFX</Ticker>
-    <CUSIP>87936910</CUSIP>
+    <CUSIP>879369106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cooper Companies Inc.</CompanyName>
     <Ticker>COO</Ticker>
-    <CUSIP>21664840</CUSIP>
+    <CUSIP>216648402</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ulta Beauty Inc</CompanyName>
     <Ticker>ULTA</Ticker>
-    <CUSIP>90384S30</CUSIP>
+    <CUSIP>90384S303</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Broadridge Financial Solutions Inc.</CompanyName>
     <Ticker>BR</Ticker>
-    <CUSIP>11133T10</CUSIP>
+    <CUSIP>11133T103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Healthpeak Properties Inc.</CompanyName>
     <Ticker>PEAK</Ticker>
-    <CUSIP>42250P10</CUSIP>
+    <CUSIP>42250P103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Catalent Inc</CompanyName>
     <Ticker>CTLT</Ticker>
-    <CUSIP>14880610</CUSIP>
+    <CUSIP>148806102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Duke Realty Corporation</CompanyName>
     <Ticker>DRE</Ticker>
-    <CUSIP>26441150</CUSIP>
+    <CUSIP>264411505</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NetApp Inc.</CompanyName>
     <Ticker>NTAP</Ticker>
-    <CUSIP>64110D10</CUSIP>
+    <CUSIP>64110D104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Amcor PLC</CompanyName>
     <Ticker>AMCR</Ticker>
-    <CUSIP>G0250X10</CUSIP>
+    <CUSIP>G0250X107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tyler Technologies Inc.</CompanyName>
     <Ticker>TYL</Ticker>
-    <CUSIP>90225210</CUSIP>
+    <CUSIP>902252105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Seagate Technology Holdings PLC</CompanyName>
     <Ticker>STX</Ticker>
-    <CUSIP>G7997R10</CUSIP>
+    <CUSIP>G7997R103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Charles River Laboratories International Inc.</CompanyName>
     <Ticker>CRL</Ticker>
-    <CUSIP>15986410</CUSIP>
+    <CUSIP>159864107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Las Vegas Sands Corp.</CompanyName>
     <Ticker>LVS</Ticker>
-    <CUSIP>51783410</CUSIP>
+    <CUSIP>517834107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Conagra Brands Inc.</CompanyName>
     <Ticker>CAG</Ticker>
-    <CUSIP>20588710</CUSIP>
+    <CUSIP>205887102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Genuine Parts Company</CompanyName>
     <Ticker>GPC</Ticker>
-    <CUSIP>37246010</CUSIP>
+    <CUSIP>372460105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Domino's Pizza Inc.</CompanyName>
     <Ticker>DPZ</Ticker>
-    <CUSIP>25754A20</CUSIP>
+    <CUSIP>25754A201</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Viatris Inc.</CompanyName>
     <Ticker>VTRS</Ticker>
-    <CUSIP>92556V10</CUSIP>
+    <CUSIP>92556V106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pool Corporation</CompanyName>
     <Ticker>POOL</Ticker>
-    <CUSIP>73278L10</CUSIP>
+    <CUSIP>73278L105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>MarketAxess Holdings Inc.</CompanyName>
     <Ticker>MKTX</Ticker>
-    <CUSIP>57060D10</CUSIP>
+    <CUSIP>57060D108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cincinnati Financial Corporation</CompanyName>
     <Ticker>CINF</Ticker>
-    <CUSIP>17206210</CUSIP>
+    <CUSIP>172062101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Baker Hughes Company Class A</CompanyName>
     <Ticker>BKR</Ticker>
-    <CUSIP>05722G10</CUSIP>
+    <CUSIP>05722G100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AES Corporation</CompanyName>
     <Ticker>AES</Ticker>
-    <CUSIP>00130H10</CUSIP>
+    <CUSIP>00130H105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AmerisourceBergen Corporation</CompanyName>
     <Ticker>ABC</Ticker>
-    <CUSIP>3.07E+13</CUSIP>
+    <CUSIP>3.07E+108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Jacobs Engineering Group Inc.</CompanyName>
     <Ticker>J</Ticker>
-    <CUSIP>46981410</CUSIP>
+    <CUSIP>469814107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Omnicom Group Inc</CompanyName>
     <Ticker>OMC</Ticker>
-    <CUSIP>68191910</CUSIP>
+    <CUSIP>681919106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Avery Dennison Corporation</CompanyName>
     <Ticker>AVY</Ticker>
-    <CUSIP>5361110</CUSIP>
+    <CUSIP>53611109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>United Airlines Holdings Inc.</CompanyName>
     <Ticker>UAL</Ticker>
-    <CUSIP>91004710</CUSIP>
+    <CUSIP>910047109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Darden Restaurants Inc.</CompanyName>
     <Ticker>DRI</Ticker>
-    <CUSIP>23719410</CUSIP>
+    <CUSIP>237194105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CMS Energy Corporation</CompanyName>
     <Ticker>CMS</Ticker>
-    <CUSIP>12589610</CUSIP>
+    <CUSIP>125896100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ingersoll Rand Inc.</CompanyName>
     <Ticker>IR</Ticker>
-    <CUSIP>45687V10</CUSIP>
+    <CUSIP>45687V106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Paycom Software Inc.</CompanyName>
     <Ticker>PAYC</Ticker>
-    <CUSIP>70432V10</CUSIP>
+    <CUSIP>70432V102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Quest Diagnostics Incorporated</CompanyName>
     <Ticker>DGX</Ticker>
-    <CUSIP>74834L10</CUSIP>
+    <CUSIP>74834L100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>MGM Resorts International</CompanyName>
     <Ticker>MGM</Ticker>
-    <CUSIP>55295310</CUSIP>
+    <CUSIP>552953101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Boston Properties Inc.</CompanyName>
     <Ticker>BXP</Ticker>
-    <CUSIP>10112110</CUSIP>
+    <CUSIP>101121101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Celanese Corporation</CompanyName>
     <Ticker>CE</Ticker>
-    <CUSIP>15087010</CUSIP>
+    <CUSIP>150870103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cardinal Health Inc.</CompanyName>
     <Ticker>CAH</Ticker>
-    <CUSIP>14149Y10</CUSIP>
+    <CUSIP>14149Y108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PerkinElmer Inc.</CompanyName>
     <Ticker>PKI</Ticker>
-    <CUSIP>71404610</CUSIP>
+    <CUSIP>714046109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kellogg Company</CompanyName>
     <Ticker>K</Ticker>
-    <CUSIP>48783610</CUSIP>
+    <CUSIP>487836108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Devon Energy Corporation</CompanyName>
     <Ticker>DVN</Ticker>
-    <CUSIP>25179M10</CUSIP>
+    <CUSIP>25179M103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IDEX Corporation</CompanyName>
     <Ticker>IEX</Ticker>
-    <CUSIP>45167R10</CUSIP>
+    <CUSIP>45167R104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NVR Inc.</CompanyName>
     <Ticker>NVR</Ticker>
-    <CUSIP>62944T10</CUSIP>
+    <CUSIP>62944T105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hologic Inc.</CompanyName>
     <Ticker>HOLX</Ticker>
-    <CUSIP>43644010</CUSIP>
+    <CUSIP>436440101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NortonLifeLock Inc.</CompanyName>
     <Ticker>NLOK</Ticker>
-    <CUSIP>66877110</CUSIP>
+    <CUSIP>668771108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Eastman Chemical Company</CompanyName>
     <Ticker>EMN</Ticker>
-    <CUSIP>27743210</CUSIP>
+    <CUSIP>277432100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Diamondback Energy Inc.</CompanyName>
     <Ticker>FANG</Ticker>
-    <CUSIP>25278X10</CUSIP>
+    <CUSIP>25278X109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Principal Financial Group Inc.</CompanyName>
     <Ticker>PFG</Ticker>
-    <CUSIP>74251V10</CUSIP>
+    <CUSIP>74251V102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Raymond James Financial Inc.</CompanyName>
     <Ticker>RJF</Ticker>
-    <CUSIP>75473010</CUSIP>
+    <CUSIP>754730109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Incyte Corporation</CompanyName>
     <Ticker>INCY</Ticker>
-    <CUSIP>45337C10</CUSIP>
+    <CUSIP>45337C102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>FMC Corporation</CompanyName>
     <Ticker>FMC</Ticker>
-    <CUSIP>30249130</CUSIP>
+    <CUSIP>302491303</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Masco Corporation</CompanyName>
     <Ticker>MAS</Ticker>
-    <CUSIP>57459910</CUSIP>
+    <CUSIP>574599106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Monolithic Power Systems Inc.</CompanyName>
     <Ticker>MPWR</Ticker>
-    <CUSIP>60983910</CUSIP>
+    <CUSIP>609839105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Textron Inc.</CompanyName>
     <Ticker>TXT</Ticker>
-    <CUSIP>88320310</CUSIP>
+    <CUSIP>883203101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>L Brands Inc.</CompanyName>
     <Ticker>LB</Ticker>
-    <CUSIP>50179710</CUSIP>
+    <CUSIP>501797104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>J.M. Smucker Company</CompanyName>
     <Ticker>SJM</Ticker>
-    <CUSIP>83269640</CUSIP>
+    <CUSIP>832696405</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Evergy Inc.</CompanyName>
     <Ticker>EVRG</Ticker>
-    <CUSIP>30034W10</CUSIP>
+    <CUSIP>30034W106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>UDR Inc.</CompanyName>
     <Ticker>UDR</Ticker>
-    <CUSIP>90265310</CUSIP>
+    <CUSIP>902653104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Citrix Systems Inc.</CompanyName>
     <Ticker>CTXS</Ticker>
-    <CUSIP>17737610</CUSIP>
+    <CUSIP>177376100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alliant Energy Corp</CompanyName>
     <Ticker>LNT</Ticker>
-    <CUSIP>1880210</CUSIP>
+    <CUSIP>18802108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PulteGroup Inc.</CompanyName>
     <Ticker>PHM</Ticker>
-    <CUSIP>74586710</CUSIP>
+    <CUSIP>745867101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DENTSPLY SIRONA Inc.</CompanyName>
     <Ticker>XRAY</Ticker>
-    <CUSIP>24906P10</CUSIP>
+    <CUSIP>24906P109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>ABIOMED Inc.</CompanyName>
     <Ticker>ABMD</Ticker>
-    <CUSIP>365410</CUSIP>
+    <CUSIP>3654100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Leidos Holdings Inc.</CompanyName>
     <Ticker>LDOS</Ticker>
-    <CUSIP>52532710</CUSIP>
+    <CUSIP>525327102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PTC Inc.</CompanyName>
     <Ticker>PTC</Ticker>
-    <CUSIP>69370C10</CUSIP>
+    <CUSIP>69370C100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lumen Technologies Inc.</CompanyName>
     <Ticker>LUMN</Ticker>
-    <CUSIP>55024110</CUSIP>
+    <CUSIP>550241103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>WestRock Company</CompanyName>
     <Ticker>WRK</Ticker>
-    <CUSIP>96145D10</CUSIP>
+    <CUSIP>96145D105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CenterPoint Energy Inc.</CompanyName>
     <Ticker>CNP</Ticker>
-    <CUSIP>15189T10</CUSIP>
+    <CUSIP>15189T107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Westinghouse Air Brake Technologies Corporation</CompanyName>
     <Ticker>WAB</Ticker>
-    <CUSIP>92974010</CUSIP>
+    <CUSIP>929740108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>American Airlines Group Inc.</CompanyName>
     <Ticker>AAL</Ticker>
-    <CUSIP>02376R10</CUSIP>
+    <CUSIP>02376R102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Brown-Forman Corporation Class B</CompanyName>
     <Ticker>BF.B</Ticker>
-    <CUSIP>11563720</CUSIP>
+    <CUSIP>115637209</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hormel Foods Corporation</CompanyName>
     <Ticker>HRL</Ticker>
-    <CUSIP>44045210</CUSIP>
+    <CUSIP>440452100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fortune Brands Home &amp; Security Inc.</CompanyName>
     <Ticker>FBHS</Ticker>
-    <CUSIP>34964C10</CUSIP>
+    <CUSIP>34964C106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Bio-Rad Laboratories Inc. Class A</CompanyName>
     <Ticker>BIO</Ticker>
-    <CUSIP>9057220</CUSIP>
+    <CUSIP>90572207</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Howmet Aerospace Inc.</CompanyName>
     <Ticker>HWM</Ticker>
-    <CUSIP>44320110</CUSIP>
+    <CUSIP>443201108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Whirlpool Corporation</CompanyName>
     <Ticker>WHR</Ticker>
-    <CUSIP>96332010</CUSIP>
+    <CUSIP>963320106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>J.B. Hunt Transport Services Inc.</CompanyName>
     <Ticker>JBHT</Ticker>
-    <CUSIP>44565810</CUSIP>
+    <CUSIP>445658107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>LKQ Corporation</CompanyName>
     <Ticker>LKQ</Ticker>
-    <CUSIP>50188920</CUSIP>
+    <CUSIP>501889208</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Wynn Resorts Limited</CompanyName>
     <Ticker>WYNN</Ticker>
-    <CUSIP>98313410</CUSIP>
+    <CUSIP>983134107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Iron Mountain Inc.</CompanyName>
     <Ticker>IRM</Ticker>
-    <CUSIP>46284V10</CUSIP>
+    <CUSIP>46284V101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Advance Auto Parts Inc.</CompanyName>
     <Ticker>AAP</Ticker>
-    <CUSIP>00751Y10</CUSIP>
+    <CUSIP>00751Y106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>C.H. Robinson Worldwide Inc.</CompanyName>
     <Ticker>CHRW</Ticker>
-    <CUSIP>12541W20</CUSIP>
+    <CUSIP>12541W209</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Packaging Corporation of America</CompanyName>
     <Ticker>PKG</Ticker>
-    <CUSIP>69515610</CUSIP>
+    <CUSIP>695156109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Interpublic Group of Companies Inc.</CompanyName>
     <Ticker>IPG</Ticker>
-    <CUSIP>46069010</CUSIP>
+    <CUSIP>460690100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Atmos Energy Corporation</CompanyName>
     <Ticker>ATO</Ticker>
-    <CUSIP>4956010</CUSIP>
+    <CUSIP>49560105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cboe Global Markets Inc</CompanyName>
     <Ticker>CBOE</Ticker>
-    <CUSIP>12503M10</CUSIP>
+    <CUSIP>12503M108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Host Hotels &amp; Resorts Inc.</CompanyName>
     <Ticker>HST</Ticker>
-    <CUSIP>44107P10</CUSIP>
+    <CUSIP>44107P104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fox Corporation Class A</CompanyName>
     <Ticker>FOXA</Ticker>
-    <CUSIP>35137L10</CUSIP>
+    <CUSIP>35137L105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Jack Henry &amp; Associates Inc.</CompanyName>
     <Ticker>JKHY</Ticker>
-    <CUSIP>42628110</CUSIP>
+    <CUSIP>426281101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Allegion PLC</CompanyName>
     <Ticker>ALLE</Ticker>
-    <CUSIP>G0176J10</CUSIP>
+    <CUSIP>G0176J109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Loews Corporation</CompanyName>
     <Ticker>L</Ticker>
-    <CUSIP>54042410</CUSIP>
+    <CUSIP>540424108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Live Nation Entertainment Inc.</CompanyName>
     <Ticker>LYV</Ticker>
-    <CUSIP>53803410</CUSIP>
+    <CUSIP>538034109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Quanta Services Inc.</CompanyName>
     <Ticker>PWR</Ticker>
-    <CUSIP>7.48E+14</CUSIP>
+    <CUSIP>7.48E+106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Universal Health Services Inc. Class B</CompanyName>
     <Ticker>UHS</Ticker>
-    <CUSIP>91390310</CUSIP>
+    <CUSIP>913903100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>BorgWarner Inc.</CompanyName>
     <Ticker>BWA</Ticker>
-    <CUSIP>9972410</CUSIP>
+    <CUSIP>99724106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tapestry Inc.</CompanyName>
     <Ticker>TPR</Ticker>
-    <CUSIP>87603010</CUSIP>
+    <CUSIP>876030107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hasbro Inc.</CompanyName>
     <Ticker>HAS</Ticker>
-    <CUSIP>41805610</CUSIP>
+    <CUSIP>418056107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Snap-on Incorporated</CompanyName>
     <Ticker>SNA</Ticker>
-    <CUSIP>83303410</CUSIP>
+    <CUSIP>833034101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lamb Weston Holdings Inc.</CompanyName>
     <Ticker>LW</Ticker>
-    <CUSIP>51327210</CUSIP>
+    <CUSIP>513272104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>F5 Networks Inc.</CompanyName>
     <Ticker>FFIV</Ticker>
-    <CUSIP>31561610</CUSIP>
+    <CUSIP>315616102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Penn National Gaming Inc.</CompanyName>
     <Ticker>PENN</Ticker>
-    <CUSIP>70756910</CUSIP>
+    <CUSIP>707569109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lincoln National Corporation</CompanyName>
     <Ticker>LNC</Ticker>
-    <CUSIP>53418710</CUSIP>
+    <CUSIP>534187109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Norwegian Cruise Line Holdings Ltd.</CompanyName>
     <Ticker>NCLH</Ticker>
-    <CUSIP>G6672110</CUSIP>
+    <CUSIP>G66721104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Henry Schein Inc.</CompanyName>
     <Ticker>HSIC</Ticker>
-    <CUSIP>80640710</CUSIP>
+    <CUSIP>806407102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mohawk Industries Inc.</CompanyName>
     <Ticker>MHK</Ticker>
-    <CUSIP>60819010</CUSIP>
+    <CUSIP>608190104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pentair plc</CompanyName>
     <Ticker>PNR</Ticker>
-    <CUSIP>G7S00T10</CUSIP>
+    <CUSIP>G7S00T104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>CF Industries Holdings Inc.</CompanyName>
     <Ticker>CF</Ticker>
-    <CUSIP>12526910</CUSIP>
+    <CUSIP>125269100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Molson Coors Beverage Company Class B</CompanyName>
     <Ticker>TAP</Ticker>
-    <CUSIP>60871R20</CUSIP>
+    <CUSIP>60871R209</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>W. R. Berkley Corporation</CompanyName>
     <Ticker>WRB</Ticker>
-    <CUSIP>8442310</CUSIP>
+    <CUSIP>84423102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mosaic Company</CompanyName>
     <Ticker>MOS</Ticker>
-    <CUSIP>61945C10</CUSIP>
+    <CUSIP>61945C103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Invesco Ltd.</CompanyName>
     <Ticker>IVZ</Ticker>
-    <CUSIP>G491BT10</CUSIP>
+    <CUSIP>G491BT108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Regency Centers Corporation</CompanyName>
     <Ticker>REG</Ticker>
-    <CUSIP>75884910</CUSIP>
+    <CUSIP>758849103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DISH Network Corporation Class A</CompanyName>
     <Ticker>DISH</Ticker>
-    <CUSIP>25470M10</CUSIP>
+    <CUSIP>25470M109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marathon Oil Corporation</CompanyName>
     <Ticker>MRO</Ticker>
-    <CUSIP>56584910</CUSIP>
+    <CUSIP>565849106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NiSource Inc</CompanyName>
     <Ticker>NI</Ticker>
-    <CUSIP>65473P10</CUSIP>
+    <CUSIP>65473P105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>News Corporation Class A</CompanyName>
     <Ticker>NWSA</Ticker>
-    <CUSIP>65249B10</CUSIP>
+    <CUSIP>65249B109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Robert Half International Inc.</CompanyName>
     <Ticker>RHI</Ticker>
-    <CUSIP>77032310</CUSIP>
+    <CUSIP>770323103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Newell Brands Inc</CompanyName>
     <Ticker>NWL</Ticker>
-    <CUSIP>65122910</CUSIP>
+    <CUSIP>651229106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Everest Re Group Ltd.</CompanyName>
     <Ticker>RE</Ticker>
-    <CUSIP>G3223R10</CUSIP>
+    <CUSIP>G3223R108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Comerica Incorporated</CompanyName>
     <Ticker>CMA</Ticker>
-    <CUSIP>20034010</CUSIP>
+    <CUSIP>200340107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DXC Technology Co.</CompanyName>
     <Ticker>DXC</Ticker>
-    <CUSIP>23355L10</CUSIP>
+    <CUSIP>23355L106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Western Union Company</CompanyName>
     <Ticker>WU</Ticker>
-    <CUSIP>95980210</CUSIP>
+    <CUSIP>959802109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pinnacle West Capital Corporation</CompanyName>
     <Ticker>PNW</Ticker>
-    <CUSIP>72348410</CUSIP>
+    <CUSIP>723484101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NRG Energy Inc.</CompanyName>
     <Ticker>NRG</Ticker>
-    <CUSIP>62937750</CUSIP>
+    <CUSIP>629377508</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Globe Life Inc.</CompanyName>
     <Ticker>GL</Ticker>
-    <CUSIP>3.80E+14</CUSIP>
+    <CUSIP>3.80E+106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Campbell Soup Company</CompanyName>
     <Ticker>CPB</Ticker>
-    <CUSIP>13442910</CUSIP>
+    <CUSIP>134429109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Juniper Networks Inc.</CompanyName>
     <Ticker>JNPR</Ticker>
-    <CUSIP>48203R10</CUSIP>
+    <CUSIP>48203R104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>A. O. Smith Corporation</CompanyName>
     <Ticker>AOS</Ticker>
-    <CUSIP>83186520</CUSIP>
+    <CUSIP>831865209</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Kimco Realty Corporation</CompanyName>
     <Ticker>KIM</Ticker>
-    <CUSIP>49446R10</CUSIP>
+    <CUSIP>49446R109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Assurant Inc.</CompanyName>
     <Ticker>AIZ</Ticker>
-    <CUSIP>04621X10</CUSIP>
+    <CUSIP>04621X108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DaVita Inc.</CompanyName>
     <Ticker>DVA</Ticker>
-    <CUSIP>23918K10</CUSIP>
+    <CUSIP>23918K108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Nielsen Holdings Plc</CompanyName>
     <Ticker>NLSN</Ticker>
-    <CUSIP>G6518L10</CUSIP>
+    <CUSIP>G6518L108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Sealed Air Corporation</CompanyName>
     <Ticker>SEE</Ticker>
-    <CUSIP>81211K10</CUSIP>
+    <CUSIP>81211K100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Franklin Resources Inc.</CompanyName>
     <Ticker>BEN</Ticker>
-    <CUSIP>35461310</CUSIP>
+    <CUSIP>354613101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Huntington Ingalls Industries Inc.</CompanyName>
     <Ticker>HII</Ticker>
-    <CUSIP>44641310</CUSIP>
+    <CUSIP>446413106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Zions Bancorporation N.A.</CompanyName>
     <Ticker>ZION</Ticker>
-    <CUSIP>98970110</CUSIP>
+    <CUSIP>989701107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Federal Realty Investment Trust</CompanyName>
     <Ticker>FRT</Ticker>
-    <CUSIP>31374720</CUSIP>
+    <CUSIP>313747206</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Discovery Inc. Class C</CompanyName>
     <Ticker>DISCK</Ticker>
-    <CUSIP>25470F30</CUSIP>
+    <CUSIP>25470F302</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>APA Corp.</CompanyName>
     <Ticker>APA</Ticker>
-    <CUSIP>03743Q10</CUSIP>
+    <CUSIP>03743Q108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Organon &amp; Co.</CompanyName>
     <Ticker>OGN</Ticker>
-    <CUSIP>68622V10</CUSIP>
+    <CUSIP>68622V106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Alaska Air Group Inc.</CompanyName>
     <Ticker>ALK</Ticker>
-    <CUSIP>1165910</CUSIP>
+    <CUSIP>11659109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IPG Photonics Corporation</CompanyName>
     <Ticker>IPGP</Ticker>
-    <CUSIP>44980X10</CUSIP>
+    <CUSIP>44980X109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Vornado Realty Trust</CompanyName>
     <Ticker>VNO</Ticker>
-    <CUSIP>92904210</CUSIP>
+    <CUSIP>929042109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PVH Corp.</CompanyName>
     <Ticker>PVH</Ticker>
-    <CUSIP>69365610</CUSIP>
+    <CUSIP>693656100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>People's United Financial Inc.</CompanyName>
     <Ticker>PBCT</Ticker>
-    <CUSIP>71270410</CUSIP>
+    <CUSIP>712704105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Rollins Inc.</CompanyName>
     <Ticker>ROL</Ticker>
-    <CUSIP>77571110</CUSIP>
+    <CUSIP>775711104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Gap Inc.</CompanyName>
     <Ticker>GPS</Ticker>
-    <CUSIP>36476010</CUSIP>
+    <CUSIP>364760108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Leggett &amp; Platt Incorporated</CompanyName>
     <Ticker>LEG</Ticker>
-    <CUSIP>52466010</CUSIP>
+    <CUSIP>524660107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Hanesbrands Inc.</CompanyName>
     <Ticker>HBI</Ticker>
-    <CUSIP>41034510</CUSIP>
+    <CUSIP>410345102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cabot Oil &amp; Gas Corporation</CompanyName>
     <Ticker>COG</Ticker>
-    <CUSIP>12709710</CUSIP>
+    <CUSIP>127097103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Perrigo Co. Plc</CompanyName>
     <Ticker>PRGO</Ticker>
-    <CUSIP>G9782210</CUSIP>
+    <CUSIP>G97822103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>NOV Inc.</CompanyName>
     <Ticker>NOV</Ticker>
-    <CUSIP>62955J10</CUSIP>
+    <CUSIP>62955J103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Unum Group</CompanyName>
     <Ticker>UNM</Ticker>
-    <CUSIP>91529Y10</CUSIP>
+    <CUSIP>91529Y106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ralph Lauren Corporation Class A</CompanyName>
     <Ticker>RL</Ticker>
-    <CUSIP>75121210</CUSIP>
+    <CUSIP>751212101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Fox Corporation Class B</CompanyName>
     <Ticker>FOX</Ticker>
-    <CUSIP>35137L20</CUSIP>
+    <CUSIP>35137L204</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Discovery Inc. Class A</CompanyName>
     <Ticker>DISCA</Ticker>
-    <CUSIP>25470F10</CUSIP>
+    <CUSIP>25470F104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Under Armour Inc. Class A</CompanyName>
     <Ticker>UAA</Ticker>
-    <CUSIP>90431110</CUSIP>
+    <CUSIP>904311107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Under Armour Inc. Class C</CompanyName>
     <Ticker>UA</Ticker>
-    <CUSIP>90431120</CUSIP>
+    <CUSIP>904311206</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>News Corporation Class B</CompanyName>
     <Ticker>NWS</Ticker>
-    <CUSIP>65249B20</CUSIP>
+    <CUSIP>65249B208</CUSIP>
   </Stock>
 </Root>

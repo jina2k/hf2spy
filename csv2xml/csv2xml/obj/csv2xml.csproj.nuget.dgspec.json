@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\liq project\\hf2spy\\xmlproject\\csv2xml\\csv2xml\\csv2xml.csproj": {}
+    "D:\\liq project\\hf2spy\\csv2xml\\csv2xml\\csv2xml.csproj": {}
   },
   "projects": {
-    "D:\\liq project\\hf2spy\\xmlproject\\csv2xml\\csv2xml\\csv2xml.csproj": {
+    "D:\\liq project\\hf2spy\\csv2xml\\csv2xml\\csv2xml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\liq project\\hf2spy\\xmlproject\\csv2xml\\csv2xml\\csv2xml.csproj",
+        "projectUniqueName": "D:\\liq project\\hf2spy\\csv2xml\\csv2xml\\csv2xml.csproj",
         "projectName": "csv2xml",
-        "projectPath": "D:\\liq project\\hf2spy\\xmlproject\\csv2xml\\csv2xml\\csv2xml.csproj",
+        "projectPath": "D:\\liq project\\hf2spy\\csv2xml\\csv2xml\\csv2xml.csproj",
         "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "D:\\liq project\\hf2spy\\xmlproject\\csv2xml\\csv2xml\\obj\\",
+        "outputPath": "D:\\liq project\\hf2spy\\csv2xml\\csv2xml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

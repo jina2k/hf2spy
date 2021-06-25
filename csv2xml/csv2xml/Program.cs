@@ -9,7 +9,7 @@ namespace csv2xml
     {
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.csv"));
+            string[] lines = File.ReadAllLines(Path.Combine(Environment.CurrentDirectory, @"Data\", "newsandp500.csv"));
 
             XElement xml = new XElement("Root",
                 from str in lines
