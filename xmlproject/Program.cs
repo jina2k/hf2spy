@@ -103,8 +103,8 @@ namespace xmlproject
             XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
             
             //following code below can use modified doc as-is without saving the file first
-            XDocument result = new XDocument(
-                new XElement("result",
+
+            XElement body = new XElement("result",
                 (from infotable in hedgie.XPath2SelectElements("//infoTable")
                  from stock in spydoc.XPath2SelectElements("//Stock")
                  where (bool)XPath2Expression.Evaluate(@"$i/cusip = $s/CUSIP", new { i = infotable, s = stock })
@@ -113,9 +113,14 @@ namespace xmlproject
                      stock.Element("CUSIP"),
                      stock.Element("Ticker"),
                      infotable.Element("value"),
-                     infotable.Element("putCall")))));
+                     infotable.Element("putCall"))));
 
-            result.Save("meme.xml");
+            XDocument result = new XDocument(
+                new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
+                body);
+
+            
+            result.Save("results.xml");
         }
     }
 }
