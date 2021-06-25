@@ -11,7 +11,7 @@ Resources used:
 
 ~ stackoverflow
 
-~ https://stockmarketmba.com/symbollookup.php - used to search up cusip because the s&p 500 data had incorrect CUSIP numbers.
+~ https://stockmarketmba.com/index.php - used search bar to search up cusip because the s&p 500 data had incorrect CUSIP numbers.
 
 The purpose of this project is to see how much exposure a hedge fund has for each stock. Essentially a modification of whalewisdom by referencing s&p 500 holdings only.
 The data is inaccurate in a way that hedge funds can simply lie and get fined a small amount on their 13fs.
