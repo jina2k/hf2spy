@@ -25,4 +25,4 @@ Methods used:
 
 ~ combining two xml files into one (using XPath 2.0)
 
-~ fixing CUSIP data (creating a web query tool and storing results)
+~ fixing CUSIP data (creating a web query tool and storing results, code not included in repo)
