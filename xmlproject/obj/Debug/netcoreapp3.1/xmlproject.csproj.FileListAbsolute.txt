@@ -4,7 +4,6 @@ D:\liq project\hf2spy\xmlproject\bin\Debug\netcoreapp3.1\xmlproject.runtimeconfi
 D:\liq project\hf2spy\xmlproject\bin\Debug\netcoreapp3.1\xmlproject.runtimeconfig.dev.json
 D:\liq project\hf2spy\xmlproject\bin\Debug\netcoreapp3.1\xmlproject.dll
 D:\liq project\hf2spy\xmlproject\bin\Debug\netcoreapp3.1\xmlproject.pdb
-D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.csproj.AssemblyReference.cache
 D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.AssemblyInfoInputs.cache
 D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.csproj.CoreCompileInputs.cache
 D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.dll

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Security;
@@ -172,7 +173,9 @@ namespace xmlproject
 
             
             result.Save("results.xml");
+            Console.WriteLine("Completed.");
 
+            Process.Start("C:\\Program Files\\Internet Explorer\\iexplore.exe", Path.Combine(Environment.CurrentDirectory, "results.xml"));
         }
     }
 }
