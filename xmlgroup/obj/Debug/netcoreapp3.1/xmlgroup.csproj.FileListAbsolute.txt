@@ -1,0 +1,13 @@
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.exe
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.deps.json
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.runtimeconfig.json
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.runtimeconfig.dev.json
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.dll
+D:\liq project\hf2spy\xmlgroup\bin\Debug\netcoreapp3.1\xmlgroup.pdb
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.csproj.AssemblyReference.cache
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.AssemblyInfoInputs.cache
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.AssemblyInfo.cs
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.csproj.CoreCompileInputs.cache
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.dll
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.pdb
+D:\liq project\hf2spy\xmlgroup\obj\Debug\netcoreapp3.1\xmlgroup.genruntimeconfig.cache

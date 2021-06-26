@@ -5,6 +5,7 @@ using System.Security;
 using System.Threading;
 using System.Xml;
 using System.Xml.Linq;
+using System.Xml.Xsl;
 using Wmhelp.XPath2;
 
 namespace xmlproject
@@ -93,12 +94,59 @@ namespace xmlproject
 
             XDocument hedgie = XDocument.Load(fileloc);
             
+            
             hedgie.Root.Attributes().Where(e => e.IsNamespaceDeclaration).Remove();
             hedgie.Descendants().Attributes().Where(e => e.IsNamespaceDeclaration).Remove();
             foreach (var elem in hedgie.Descendants())
                 elem.Name = elem.Name.LocalName;
 
-            //hedgie.Save("hedgefile.xml"); //output to test namespace removal
+            string xslt = @"<?xml version='1.0'?>
+            <xsl:stylesheet xmlns:xsl='http://www.w3.org/1999/XSL/Transform' version='1.0'>
+            <xsl:output indent='yes'/>
+                <xsl:template match='/'>
+                    <Root>
+                        <xsl:for-each select='informationTable/infoTable'>
+                            <infoTable>
+                                <cusip>
+                                <xsl:value-of select='cusip'/>
+                                </cusip>
+                                <value>
+                                <xsl:value-of select='value'/>
+                                </value>
+                                <xsl:choose>
+                                    <xsl:when test='not(putCall)'>
+                                        <putCall>SH</putCall>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <putCall><xsl:value-of select='putCall'/></putCall>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </infoTable>
+                        </xsl:for-each>
+                    </Root>
+                </xsl:template>
+            </xsl:stylesheet>";
+
+
+            var newDocument = new XDocument();
+
+            using (var stringReader = new StringReader(xslt))
+            {
+                using (XmlReader xsltReader = XmlReader.Create(stringReader))
+                {
+                    var transformer = new XslCompiledTransform();
+                    transformer.Load(xsltReader);
+                    using (XmlReader oldDocumentReader = hedgie.CreateReader())
+                    {
+                        using (XmlWriter newDocumentWriter = newDocument.CreateWriter())
+                        {
+                            transformer.Transform(oldDocumentReader, newDocumentWriter);
+                        }
+                    }
+                }
+            }
+
+            newDocument.Save("hedgefile.xml"); //storing output in hedgefile.xml
 
             XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
 
@@ -107,7 +155,7 @@ namespace xmlproject
             Console.WriteLine("Please wait a few minutes...");
             XElement body = new XElement("result",
                 (from stock in spydoc.XPath2SelectElements("//Stock")
-                 from infotable in hedgie.XPath2SelectElements("//infoTable")
+                 from infotable in newDocument.XPath2SelectElements("//infoTable")
                  where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/cusip", new { s = stock , i = infotable })
                  select new XElement("opStock",
                      stock.Element("CompanyName"),
