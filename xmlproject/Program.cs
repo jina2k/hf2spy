@@ -103,24 +103,26 @@ namespace xmlproject
             string xslt = @"<?xml version='1.0'?>
             <xsl:stylesheet xmlns:xsl='http://www.w3.org/1999/XSL/Transform' version='1.0'>
             <xsl:output indent='yes'/>
+            <xsl:key name='cusip-link' match='informationTable/infoTable' use='cusip'/>
                 <xsl:template match='/'>
                     <Root>
-                        <xsl:for-each select='informationTable/infoTable'>
-                            <infoTable>
-                                <cusip>
-                                <xsl:value-of select='cusip'/>
-                                </cusip>
-                                <value>
-                                <xsl:value-of select='value'/>
-                                </value>
-                                <xsl:choose>
-                                    <xsl:when test='not(putCall)'>
-                                        <putCall>SH</putCall>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <putCall><xsl:value-of select='putCall'/></putCall>
-                                    </xsl:otherwise>
-                                </xsl:choose>
+                        <xsl:for-each select='informationTable/infoTable[count(. | key(""cusip-link"", cusip)[1]) = 1]'>
+                            <infoTable cusip='{cusip}'>
+                                <xsl:for-each select='key(""cusip-link"", cusip)'>
+                                    <pcs>
+                                        <value>
+                                        <xsl:value-of select='value'/>
+                                        </value>
+                                        <xsl:choose>
+                                            <xsl:when test='not(putCall)'>
+                                                <putCall>SH</putCall>
+                                            </xsl:when>
+                                            <xsl:otherwise>
+                                                <putCall><xsl:value-of select='putCall'/></putCall>
+                                            </xsl:otherwise>
+                                        </xsl:choose>
+                                    </pcs>
+                                </xsl:for-each>
                             </infoTable>
                         </xsl:for-each>
                     </Root>
@@ -156,13 +158,13 @@ namespace xmlproject
             XElement body = new XElement("result",
                 (from stock in spydoc.XPath2SelectElements("//Stock")
                  from infotable in newDocument.XPath2SelectElements("//infoTable")
-                 where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/cusip", new { s = stock , i = infotable })
+                 where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/@cusip", new { s = stock , i = infotable })
                  select new XElement("opStock",
                      stock.Element("CompanyName"),
                      stock.Element("CUSIP"),
                      stock.Element("Ticker"),
-                     infotable.Element("value"),
-                     infotable.Element("putCall"))));
+                     infotable.Elements("pcs")
+                     )));
 
             XDocument result = new XDocument(
                 new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
