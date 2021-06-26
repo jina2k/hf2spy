@@ -12,21 +12,59 @@
 			<th>Put/Call</th>
 		</tr>
 		<xsl:for-each select="result/opStock">
-			<xsl:sort select="value/text()" data-type="number" order="descending"/>
+			<xsl:sort select="sum(pcs/value)" data-type="number" order="descending"/>
 			<tr>
-				<td>
-				<xsl:value-of select="CompanyName"/>
-				</td>
-				<td>
-				<xsl:value-of select="Ticker"/>
-				</td>
-				<td>
-				<xsl:value-of select="value"/>
-				</td>
-				<td>
-				<xsl:value-of select="putCall"/>
-				</td>
+				<td><xsl:value-of select="CompanyName"/></td>
+				<td><xsl:value-of select="Ticker"/></td>
+				<td><xsl:value-of select="sum(pcs/value)"/></td>
+				<td></td>
 			</tr>
+			
+			<xsl:choose>
+				<xsl:when test="sum(pcs/value[../putCall/text() = 'SH']) != 0">
+					<tr>
+						<td></td>
+						<td></td>
+						<td>
+							<xsl:value-of select="sum(pcs/value[../putCall/text() = 'SH'])"/>
+						</td>
+						<td>SH</td>
+					</tr>
+				</xsl:when>
+				<xsl:otherwise>
+				</xsl:otherwise>
+			</xsl:choose>
+
+			<xsl:choose>
+				<xsl:when test="sum(pcs/value[../putCall/text() = 'Call']) != 0">
+					<tr>
+						<td></td>
+						<td></td>
+						<td>
+							<xsl:value-of select="sum(pcs/value[../putCall/text() = 'Call'])"/>
+						</td>
+						<td>Call</td>
+					</tr>
+				</xsl:when>
+				<xsl:otherwise>
+				</xsl:otherwise>
+			</xsl:choose>
+
+			<xsl:choose>
+				<xsl:when test="sum(pcs/value[../putCall/text() = 'Put']) != 0">
+					<tr>
+						<td></td>
+						<td></td>
+						<td>
+							<xsl:value-of select="sum(pcs/value[../putCall/text() = 'Put'])"/>
+						</td>
+						<td>Put</td>
+					</tr>
+				</xsl:when>
+				<xsl:otherwise>
+				</xsl:otherwise>
+			</xsl:choose>
+			
 		</xsl:for-each>
 	</table>
 	</body>
