@@ -26,3 +26,5 @@ Methods used:
 ~ combining two xml files into one (using XPath 2.0)
 
 ~ fixing CUSIP data (creating a web query tool and storing results, code not included in repo)
+
+Currently the estimated time for running the application on a file is 5 minutes (using Blackrock's 13F holdings for May of 2021). Citadel's 13F in comparison takes around 1 minute.
