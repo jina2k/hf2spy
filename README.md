@@ -15,6 +15,7 @@ Resources used:
 
 ~ http://www.jenitennison.com/xslt/grouping/muenchian.xml - to understand the Muenchian method used to group XML attributes together in an attempt to reduce operating time
 
+
 The purpose of this project is to see how much exposure a hedge fund has for each stock. Essentially a modification of whalewisdom by referencing s&p 500 holdings only.
 The data is inaccurate in a way that hedge funds can simply lie and get fined a small amount on their 13fs.
 Calls/Puts are also listed for an idea of "market value" exposure that hedge funds have for each ticker.
@@ -28,5 +29,7 @@ Methods used:
 ~ combining two xml files into one (using XPath 2.0)
 
 ~ fixing CUSIP data (creating a web query tool and storing results, code not included in repo)
+
+~ Muenchian method to group XML attributes together (used XSLT 1.0)
 
 Currently the estimated time for running the application on a file (on battery) is 1 minute (using Blackrock's 13F holdings for May of 2021). Citadel's 13F in comparison takes around 50 seconds. (before grouping and removing extraneous variables, Blackrock took 7 minutes and Citadel took 2 minutes) When plugged in, running the application takes approximately 10 seconds less time.
