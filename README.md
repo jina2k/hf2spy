@@ -33,3 +33,5 @@ Methods used:
 ~ Muenchian method to group XML attributes together (used XSLT 1.0)
 
 Currently the estimated time for running the application on a file (on battery) is 1 minute (using Blackrock's 13F holdings for May of 2021). Citadel's 13F in comparison takes around 50 seconds. (before grouping and removing extraneous variables, Blackrock took 7 minutes and Citadel took 2 minutes) When plugged in, running the application takes approximately 10 seconds less time.
+
+Added an option for checking holdings in general, sorted by value. This option does not include the ticker, and instead uses the nameofIssuer from standard 13f filings.
