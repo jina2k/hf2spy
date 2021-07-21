@@ -1,7 +1,7 @@
 # hf2spy
 comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
-Resources used:
+## Resources used:
 
 ~ https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy - For finding the CUSIP/ticker symbol of every ticker in the s&p 500
 
@@ -22,7 +22,7 @@ Calls/Puts are also listed for an idea of "market value" exposure that hedge fun
 
 This project was done for fun and out of curiosity (informational purposes), seeing how much a hedge fund would "own" in each ticker in the s&p 500.
 
-Methods used:
+## Methods used:
 
 ~ csv to xml for s and p 500 data (using Linq to create XML files)
 
@@ -35,8 +35,6 @@ Methods used:
 Currently the estimated time for running the application on a file (on battery) is 1 minute (using Blackrock's 13F holdings for May of 2021). Citadel's 13F in comparison takes around 50 seconds. (before grouping and removing extraneous variables, Blackrock took 7 minutes and Citadel took 2 minutes) When plugged in, running the application takes approximately 10 seconds less time.
 
 
-
-
-Changes:
+## Changes:
 
 Added an option for checking holdings in general, sorted by value. This option does not include the ticker, and instead uses the nameofIssuer from standard 13f filings.
