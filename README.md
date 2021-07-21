@@ -36,6 +36,7 @@ Currently the estimated time for running the application on a file (on battery) 
 
 
 
+
 Changes:
 
 Added an option for checking holdings in general, sorted by value. This option does not include the ticker, and instead uses the nameofIssuer from standard 13f filings.
