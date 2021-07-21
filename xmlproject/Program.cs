@@ -109,6 +109,9 @@ namespace xmlproject
                     <Root>
                         <xsl:for-each select='informationTable/infoTable[count(. | key(""cusip-link"", cusip)[1]) = 1]'>
                             <infoTable cusip='{cusip}'>
+                                <namae>
+                                    <xsl:value-of select='nameOfIssuer'/>
+                                </namae>
                                 <xsl:for-each select='key(""cusip-link"", cusip)'>
                                     <pcs>
                                         <value>
@@ -151,28 +154,58 @@ namespace xmlproject
 
             newDocument.Save("hedgefile.xml"); //storing output in hedgefile.xml
 
-            XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
+            Console.WriteLine("spy? (y/n)");
 
-            //following code below can use modified doc as-is without saving the file first
+            string arg4 = "";
+            arg4 = Console.ReadLine().ToLower();
+            while (arg4 != "y" && arg4 != "n")
+            {
+                Console.WriteLine("Invalid selection, please type y or n to indicate yes or no.");
+                arg4 = Console.ReadLine().ToLower();
+            }
 
-            Console.WriteLine("Please wait a few minutes...");
-            XElement body = new XElement("result",
-                (from stock in spydoc.XPath2SelectElements("//Stock")
-                 from infotable in newDocument.XPath2SelectElements("//infoTable")
-                 where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/@cusip", new { s = stock , i = infotable })
-                 select new XElement("opStock",
-                     stock.Element("CompanyName"),
-                     stock.Element("CUSIP"),
-                     stock.Element("Ticker"),
-                     infotable.Elements("pcs")
-                     )));
+            if (arg4 == "y")
+            {
+                XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
 
-            XDocument result = new XDocument(
-                new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
-                body);
+                //following code below can use modified doc as-is without saving the file first
 
-            
-            result.Save("results.xml");
+                Console.WriteLine("Please wait a few minutes...");
+                XElement body = new XElement("result",
+                    (from stock in spydoc.XPath2SelectElements("//Stock")
+                     from infotable in newDocument.XPath2SelectElements("//infoTable")
+                     where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/@cusip", new { s = stock, i = infotable })
+                     select new XElement("opStock",
+                         stock.Element("CompanyName"),
+                         stock.Element("CUSIP"),
+                         stock.Element("Ticker"),
+                         infotable.Elements("pcs")
+                         )));
+
+                XDocument result = new XDocument(
+                    new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
+                    body);
+
+
+                result.Save("results.xml");
+            }
+            else
+            {
+                Console.WriteLine("Please wait a few minutes...");
+                XElement body = new XElement("result",
+                    (from infotable in newDocument.XPath2SelectElements("//infoTable")
+                     select new XElement("opStock",
+                        infotable.Elements("namae"),
+                        infotable.Elements("pcs")
+                        )));
+
+                XDocument result = new XDocument(
+                    new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format2.xsl'"),
+                    body);
+
+
+                result.Save("results.xml");
+            }
             Console.WriteLine("Completed.");
 
             Process.Start("C:\\Program Files\\Internet Explorer\\iexplore.exe", Path.Combine(Environment.CurrentDirectory, "results.xml"));

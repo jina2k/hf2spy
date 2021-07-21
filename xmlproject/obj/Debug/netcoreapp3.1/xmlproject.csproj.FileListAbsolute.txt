@@ -12,3 +12,4 @@ D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.genruntimeco
 D:\liq project\hf2spy\xmlproject\bin\Debug\netcoreapp3.1\XPath2.dll
 D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.csproj.CopyComplete
 D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.AssemblyInfo.cs
+D:\liq project\hf2spy\xmlproject\obj\Debug\netcoreapp3.1\xmlproject.csproj.AssemblyReference.cache
