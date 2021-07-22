@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Stock>
+	  <CompanyName>SPDR S&amp;P 500 ETF</CompanyName>
+	  <Ticker>SPY</Ticker>
+	  <CUSIP>78462F103</CUSIP>
+  </Stock>
+  <Stock>
     <CompanyName>Apple Inc.</CompanyName>
     <Ticker>AAPL</Ticker>
     <CUSIP>37833100</CUSIP>
