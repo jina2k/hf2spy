@@ -52,6 +52,10 @@ namespace xmlproject
                         Console.WriteLine("Please enter the directory/location of the XML file of the hedge fund, or drag the file into the console application.");
                         Thread.Sleep(5000);
                         fileloc = Console.ReadLine();
+                        if (fileloc[0] == '"' && fileloc[fileloc.Length - 1] == '"')
+                        {
+                            fileloc = fileloc.Substring(1, fileloc.Length - 2);
+                        }
                     }
                 }
 
