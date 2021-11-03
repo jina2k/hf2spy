@@ -1,6 +1,11 @@
 # hf2spy
 comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
+## How to Use
+-Go to xmlproject
+
+-Launch xmlproject(shortcut)
+
 ## Resources
 
 ~ https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy - For finding the CUSIP/ticker symbol of every ticker in the s&p 500
@@ -38,3 +43,12 @@ Currently the estimated time for running the application on a file (on battery) 
 ## Changes
 
 Added an option for checking holdings in general, sorted by value. This option does not include the ticker, and instead uses the nameofIssuer from standard 13f filings.
+
+### Thoughts on XSLT 2.0 and further updates
+Attempted an update to XSLT 2.0, upon looking over the project again. Referenced https://en.wikipedia.org/wiki/XSLT/Muenchian_grouping as well as https://www.xml.com/pub/a/2003/11/05/tr.html.
+
+Currently, the performance with XSLT 2.0 is actually worse than XSLT 1.0 (using Muenchian). The likely cause is probably due to the usage of Saxon's API. I would say it's around 2-3 times slower than XSLT 1.0, especially when testing with a big file like blackrock. This is very apparent when the code takes much longer during the initial stage, before the console prompts the user whether or not to cross-check the results against the s&p 500. As a result, I did not continue parsing the data for the end file. 
+
+Due to how 13F filings generally work (companies submit them quarterly), I don't see further point in attempting to improve parsing the data. (still possible to improve it, though it would have to be in Java)
+
+However, in the future, the project could transition into using JSON for displaying the end result instead. This would be a lot easier to work with and would be able to bypass some same-origin issues (https://stackoverflow.com/questions/3420513/firefox-and-remote-xsl-stylesheets), allowing the end result to be displayed on multiple browsers.
