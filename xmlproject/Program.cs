@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using System.Linq;
@@ -7,7 +8,6 @@ using System.Threading;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Xsl;
-using Wmhelp.XPath2;
 
 namespace xmlproject
 {
@@ -112,10 +112,13 @@ namespace xmlproject
                 <xsl:template match='/'>
                     <Root>
                         <xsl:for-each select='informationTable/infoTable[count(. | key(""cusip-link"", cusip)[1]) = 1]'>
-                            <infoTable cusip='{cusip}'>
-                                <namae>
+                            <Stock>
+                                <CUSIP>
+                                    <xsl:value-of select='cusip'/>
+                                </CUSIP>
+                                <nameOfIssuer>
                                     <xsl:value-of select='nameOfIssuer'/>
-                                </namae>
+                                </nameOfIssuer>
                                 <xsl:for-each select='key(""cusip-link"", cusip)'>
                                     <pcs>
                                         <value>
@@ -131,7 +134,7 @@ namespace xmlproject
                                         </xsl:choose>
                                     </pcs>
                                 </xsl:for-each>
-                            </infoTable>
+                            </Stock>
                         </xsl:for-each>
                     </Root>
                 </xsl:template>
@@ -168,38 +171,38 @@ namespace xmlproject
                 arg4 = Console.ReadLine().ToLower();
             }
 
+            XDocument spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
+
             if (arg4 == "y")
             {
-                XNode spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
 
                 //following code below can use modified doc as-is without saving the file first
 
                 Console.WriteLine("Please wait a few minutes...");
-                XElement body = new XElement("result",
-                    (from stock in spydoc.XPath2SelectElements("//Stock")
-                     from infotable in newDocument.XPath2SelectElements("//infoTable")
-                     where (bool)XPath2Expression.Evaluate(@"$s/CUSIP = $i/@cusip", new { s = stock, i = infotable })
-                     select new XElement("opStock",
-                         stock.Element("CompanyName"),
-                         stock.Element("CUSIP"),
-                         stock.Element("Ticker"),
-                         infotable.Elements("pcs")
-                         )));
+                XElement unionTest = new XElement("result",
+                        (from first in newDocument.Root.Descendants()
+                                join second in spydoc.Root.Descendants()
+                                on (string)first.Element("CUSIP") equals (string)second.Element("CUSIP")
+                                select new XElement("Stock",
+                                    first.Element("CUSIP"),
+                                    second.Element("CompanyName"),
+                                    second.Element("Ticker"),
+                                    first.Elements("pcs"))));
 
                 XDocument result = new XDocument(
                     new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
-                    body);
-
+                    unionTest);
 
                 result.Save("results.xml");
+                
             }
             else
             {
                 Console.WriteLine("Please wait a few minutes...");
                 XElement body = new XElement("result",
-                    (from infotable in newDocument.XPath2SelectElements("//infoTable")
-                     select new XElement("opStock",
-                        infotable.Elements("namae"),
+                    (from infotable in newDocument.Root.Descendants()
+                     select new XElement("Stock",
+                        infotable.Elements("nameOfIssuer"),
                         infotable.Elements("pcs")
                         )));
 

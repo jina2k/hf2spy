@@ -31,7 +31,7 @@ Chevron Corporation,CVX,166764100
 AT&T Inc.,T,00206R102
 PepsiCo Inc.,PEP,713448108
 AbbVie Inc.,ABBV,00287Y109
-Abbott Laboratories,ABT,2824100
+Abbott Laboratories,ABT,002824100
 Merck & Co. Inc.,MRK,58933Y105
 Broadcom Inc.,AVGO,11135F101
 Thermo Fisher Scientific Inc.,TMO,883556102
@@ -77,7 +77,7 @@ American Express Company,AXP,25816109
 Intuitive Surgical Inc.,ISRG,46120E602
 ServiceNow Inc.,NOW,81762P102
 Deere & Company,DE,244199105
-Advanced Micro Devices Inc.,AMD,7903107
+Advanced Micro Devices Inc.,AMD,007903107
 Charter Communications Inc. Class A,CHTR,16119P108
 S&P Global Inc.,SPGI,78409V104
 Lockheed Martin Corporation,LMT,539830109
@@ -117,7 +117,7 @@ Estee Lauder Companies Inc. Class A,EL,518439104
 Norfolk Southern Corporation,NSC,655844108
 Southern Company,SO,842587107
 Illumina Inc.,ILMN,452327109
-Air Products and Chemicals Inc.,APD,9158106
+Air Products and Chemicals Inc.,APD,009158106
 Sherwin-Williams Company,SHW,824348106
 Fiserv Inc.,FISV,337738108
 Illinois Tool Works Inc.,ITW,452308109
@@ -216,7 +216,7 @@ Yum! Brands Inc.,YUM,988498101
 Hilton Worldwide Holdings Inc,HLT,43300A203
 ResMed Inc.,RMD,761152107
 Archer-Daniels-Midland Company,ADM,39483102
-Aflac Incorporated,AFL,1055102
+Aflac Incorporated,AFL,001055102
 Monster Beverage Corporation,MNST,61174X109
 Welltower Inc.,WELL,95040Q104
 Paychex Inc.,PAYX,704326107
@@ -227,7 +227,7 @@ Williams Companies Inc.,WMB,969457100
 Xilinx Inc.,XLNX,983919101
 Corteva Inc,CTVA,22052L104
 Valero Energy Corporation,VLO,91913Y100
-Fortinet Inc.,FTNT,3.50E+113
+Fortinet Inc.,FTNT,3.5E+113
 Pioneer Natural Resources Company,PXD,723787107
 Mettler-Toledo International Inc.,MTD,592688105
 Cintas Corporation,CTAS,172908105
@@ -406,7 +406,7 @@ Citrix Systems Inc.,CTXS,177376100
 Alliant Energy Corp,LNT,18802108
 PulteGroup Inc.,PHM,745867101
 DENTSPLY SIRONA Inc.,XRAY,24906P109
-ABIOMED Inc.,ABMD,3654100
+ABIOMED Inc.,ABMD,003654100
 Leidos Holdings Inc.,LDOS,525327102
 PTC Inc.,PTC,69370C100
 Lumen Technologies Inc.,LUMN,550241103
@@ -468,7 +468,7 @@ DXC Technology Co.,DXC,23355L106
 Western Union Company,WU,959802109
 Pinnacle West Capital Corporation,PNW,723484101
 NRG Energy Inc.,NRG,629377508
-Globe Life Inc.,GL,3.80E+106
+Globe Life Inc.,GL,3.8E+106
 Campbell Soup Company,CPB,134429109
 Juniper Networks Inc.,JNPR,48203R104
 A. O. Smith Corporation,AOS,831865209

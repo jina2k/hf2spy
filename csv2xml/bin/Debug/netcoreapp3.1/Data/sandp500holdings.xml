@@ -3,7 +3,7 @@
   <Stock>
     <CompanyName>Apple Inc.</CompanyName>
     <Ticker>AAPL</Ticker>
-    <CUSIP>37833100</CUSIP>
+    <CUSIP>037833100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Microsoft Corporation</CompanyName>
@@ -13,7 +13,7 @@
   <Stock>
     <CompanyName>Amazon.com Inc.</CompanyName>
     <Ticker>AMZN</Ticker>
-    <CUSIP>23135106</CUSIP>
+    <CUSIP>023135106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Facebook Inc. Class A</CompanyName>
@@ -33,7 +33,7 @@
   <Stock>
     <CompanyName>Berkshire Hathaway Inc. Class B</CompanyName>
     <Ticker>BRK.B</Ticker>
-    <CUSIP>84670702</CUSIP>
+    <CUSIP>084670702</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tesla Inc</CompanyName>
@@ -93,7 +93,7 @@
   <Stock>
     <CompanyName>Bank of America Corp</CompanyName>
     <Ticker>BAC</Ticker>
-    <CUSIP>60505104</CUSIP>
+    <CUSIP>060505104</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Adobe Inc.</CompanyName>
@@ -168,7 +168,7 @@
   <Stock>
     <CompanyName>Abbott Laboratories</CompanyName>
     <Ticker>ABT</Ticker>
-    <CUSIP>2824100</CUSIP>
+    <CUSIP>002824100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Merck &amp; Co. Inc.</CompanyName>
@@ -288,7 +288,7 @@
   <Stock>
     <CompanyName>Amgen Inc.</CompanyName>
     <Ticker>AMGN</Ticker>
-    <CUSIP>31162100</CUSIP>
+    <CUSIP>031162100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lowe's Companies Inc.</CompanyName>
@@ -308,7 +308,7 @@
   <Stock>
     <CompanyName>Boeing Company</CompanyName>
     <Ticker>BA</Ticker>
-    <CUSIP>97023105</CUSIP>
+    <CUSIP>097023105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Starbucks Corporation</CompanyName>
@@ -328,7 +328,7 @@
   <Stock>
     <CompanyName>Applied Materials Inc.</CompanyName>
     <Ticker>AMAT</Ticker>
-    <CUSIP>38222105</CUSIP>
+    <CUSIP>038222105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Goldman Sachs Group Inc.</CompanyName>
@@ -378,7 +378,7 @@
   <Stock>
     <CompanyName>American Express Company</CompanyName>
     <Ticker>AXP</Ticker>
-    <CUSIP>25816109</CUSIP>
+    <CUSIP>025816109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Intuitive Surgical Inc.</CompanyName>
@@ -398,7 +398,7 @@
   <Stock>
     <CompanyName>Advanced Micro Devices Inc.</CompanyName>
     <Ticker>AMD</Ticker>
-    <CUSIP>7903107</CUSIP>
+    <CUSIP>007903107</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Charter Communications Inc. Class A</CompanyName>
@@ -423,7 +423,7 @@
   <Stock>
     <CompanyName>Anthem Inc.</CompanyName>
     <Ticker>ANTM</Ticker>
-    <CUSIP>36752103</CUSIP>
+    <CUSIP>036752103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Lam Research Corporation</CompanyName>
@@ -478,7 +478,7 @@
   <Stock>
     <CompanyName>Automatic Data Processing Inc.</CompanyName>
     <Ticker>ADP</Ticker>
-    <CUSIP>53015103</CUSIP>
+    <CUSIP>053015103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Gilead Sciences Inc.</CompanyName>
@@ -568,7 +568,7 @@
   <Stock>
     <CompanyName>Becton Dickinson and Company</CompanyName>
     <Ticker>BDX</Ticker>
-    <CUSIP>75887109</CUSIP>
+    <CUSIP>075887109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marsh &amp; McLennan Companies Inc.</CompanyName>
@@ -598,7 +598,7 @@
   <Stock>
     <CompanyName>Air Products and Chemicals Inc.</CompanyName>
     <Ticker>APD</Ticker>
-    <CUSIP>9158106</CUSIP>
+    <CUSIP>009158106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Sherwin-Williams Company</CompanyName>
@@ -638,12 +638,12 @@
   <Stock>
     <CompanyName>Analog Devices Inc.</CompanyName>
     <Ticker>ADI</Ticker>
-    <CUSIP>32654105</CUSIP>
+    <CUSIP>032654105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Autodesk Inc.</CompanyName>
     <Ticker>ADSK</Ticker>
-    <CUSIP>52769106</CUSIP>
+    <CUSIP>052769106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Biogen Inc.</CompanyName>
@@ -818,7 +818,7 @@
   <Stock>
     <CompanyName>Align Technology Inc.</CompanyName>
     <Ticker>ALGN</Ticker>
-    <CUSIP>16255101</CUSIP>
+    <CUSIP>016255101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Digital Realty Trust Inc.</CompanyName>
@@ -868,7 +868,7 @@
   <Stock>
     <CompanyName>American International Group Inc.</CompanyName>
     <Ticker>AIG</Ticker>
-    <CUSIP>26874784</CUSIP>
+    <CUSIP>026874784</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Ross Stores Inc.</CompanyName>
@@ -878,7 +878,7 @@
   <Stock>
     <CompanyName>American Electric Power Company Inc.</CompanyName>
     <Ticker>AEP</Ticker>
-    <CUSIP>25537101</CUSIP>
+    <CUSIP>025537101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>DuPont de Nemours Inc.</CompanyName>
@@ -898,7 +898,7 @@
   <Stock>
     <CompanyName>Baxter International Inc.</CompanyName>
     <Ticker>BAX</Ticker>
-    <CUSIP>71813109</CUSIP>
+    <CUSIP>071813109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Aptiv PLC</CompanyName>
@@ -928,7 +928,7 @@
   <Stock>
     <CompanyName>Amphenol Corporation Class A</CompanyName>
     <Ticker>APH</Ticker>
-    <CUSIP>32095101</CUSIP>
+    <CUSIP>032095101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Prudential Financial Inc.</CompanyName>
@@ -938,7 +938,7 @@
   <Stock>
     <CompanyName>Bank of New York Mellon Corporation</CompanyName>
     <Ticker>BK</Ticker>
-    <CUSIP>64058100</CUSIP>
+    <CUSIP>064058100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Marathon Petroleum Corporation</CompanyName>
@@ -953,7 +953,7 @@
   <Stock>
     <CompanyName>Alexion Pharmaceuticals Inc.</CompanyName>
     <Ticker>ALXN</Ticker>
-    <CUSIP>15351109</CUSIP>
+    <CUSIP>015351109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Chipotle Mexican Grill Inc.</CompanyName>
@@ -973,7 +973,7 @@
   <Stock>
     <CompanyName>Allstate Corporation</CompanyName>
     <Ticker>ALL</Ticker>
-    <CUSIP>20002101</CUSIP>
+    <CUSIP>020002101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Walgreens Boots Alliance Inc</CompanyName>
@@ -1088,12 +1088,12 @@
   <Stock>
     <CompanyName>Archer-Daniels-Midland Company</CompanyName>
     <Ticker>ADM</Ticker>
-    <CUSIP>39483102</CUSIP>
+    <CUSIP>039483102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Aflac Incorporated</CompanyName>
     <Ticker>AFL</Ticker>
-    <CUSIP>1055102</CUSIP>
+    <CUSIP>001055102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Monster Beverage Corporation</CompanyName>
@@ -1148,7 +1148,7 @@
   <Stock>
     <CompanyName>Fortinet Inc.</CompanyName>
     <Ticker>FTNT</Ticker>
-    <CUSIP>3.50E+113</CUSIP>
+    <CUSIP>03.5E+113</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Pioneer Natural Resources Company</CompanyName>
@@ -1193,12 +1193,12 @@
   <Stock>
     <CompanyName>AMETEK Inc.</CompanyName>
     <Ticker>AME</Ticker>
-    <CUSIP>31100100</CUSIP>
+    <CUSIP>031100100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>AutoZone Inc.</CompanyName>
     <Ticker>AZO</Ticker>
-    <CUSIP>53332102</CUSIP>
+    <CUSIP>053332102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Corning Inc</CompanyName>
@@ -1223,7 +1223,7 @@
   <Stock>
     <CompanyName>American Water Works Company Inc.</CompanyName>
     <Ticker>AWK</Ticker>
-    <CUSIP>30420103</CUSIP>
+    <CUSIP>030420103</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>D.R. Horton Inc.</CompanyName>
@@ -1238,7 +1238,7 @@
   <Stock>
     <CompanyName>AvalonBay Communities Inc.</CompanyName>
     <Ticker>AVB</Ticker>
-    <CUSIP>53484101</CUSIP>
+    <CUSIP>053484101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>WEC Energy Group Inc</CompanyName>
@@ -1348,7 +1348,7 @@
   <Stock>
     <CompanyName>Ball Corporation</CompanyName>
     <Ticker>BLL</Ticker>
-    <CUSIP>58498106</CUSIP>
+    <CUSIP>058498106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Consolidated Edison Inc.</CompanyName>
@@ -1408,7 +1408,7 @@
   <Stock>
     <CompanyName>Best Buy Co. Inc.</CompanyName>
     <Ticker>BBY</Ticker>
-    <CUSIP>86516101</CUSIP>
+    <CUSIP>086516101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cerner Corporation</CompanyName>
@@ -1473,7 +1473,7 @@
   <Stock>
     <CompanyName>Alexandria Real Estate Equities Inc.</CompanyName>
     <Ticker>ARE</Ticker>
-    <CUSIP>15271109</CUSIP>
+    <CUSIP>015271109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Republic Services Inc.</CompanyName>
@@ -1583,7 +1583,7 @@
   <Stock>
     <CompanyName>Ameren Corporation</CompanyName>
     <Ticker>AEE</Ticker>
-    <CUSIP>23608102</CUSIP>
+    <CUSIP>023608102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Extra Space Storage Inc.</CompanyName>
@@ -1648,7 +1648,7 @@
   <Stock>
     <CompanyName>Arista Networks Inc.</CompanyName>
     <Ticker>ANET</Ticker>
-    <CUSIP>40413106</CUSIP>
+    <CUSIP>040413106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Halliburton Company</CompanyName>
@@ -1713,7 +1713,7 @@
   <Stock>
     <CompanyName>Albemarle Corporation</CompanyName>
     <Ticker>ALB</Ticker>
-    <CUSIP>12653101</CUSIP>
+    <CUSIP>012653101</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>M&amp;T Bank Corporation</CompanyName>
@@ -1868,7 +1868,7 @@
   <Stock>
     <CompanyName>Avery Dennison Corporation</CompanyName>
     <Ticker>AVY</Ticker>
-    <CUSIP>53611109</CUSIP>
+    <CUSIP>053611109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>United Airlines Holdings Inc.</CompanyName>
@@ -2028,7 +2028,7 @@
   <Stock>
     <CompanyName>Alliant Energy Corp</CompanyName>
     <Ticker>LNT</Ticker>
-    <CUSIP>18802108</CUSIP>
+    <CUSIP>018802108</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>PulteGroup Inc.</CompanyName>
@@ -2043,7 +2043,7 @@
   <Stock>
     <CompanyName>ABIOMED Inc.</CompanyName>
     <Ticker>ABMD</Ticker>
-    <CUSIP>3654100</CUSIP>
+    <CUSIP>003654100</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Leidos Holdings Inc.</CompanyName>
@@ -2098,7 +2098,7 @@
   <Stock>
     <CompanyName>Bio-Rad Laboratories Inc. Class A</CompanyName>
     <Ticker>BIO</Ticker>
-    <CUSIP>90572207</CUSIP>
+    <CUSIP>090572207</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Howmet Aerospace Inc.</CompanyName>
@@ -2153,7 +2153,7 @@
   <Stock>
     <CompanyName>Atmos Energy Corporation</CompanyName>
     <Ticker>ATO</Ticker>
-    <CUSIP>49560105</CUSIP>
+    <CUSIP>049560105</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Cboe Global Markets Inc</CompanyName>
@@ -2203,7 +2203,7 @@
   <Stock>
     <CompanyName>BorgWarner Inc.</CompanyName>
     <Ticker>BWA</Ticker>
-    <CUSIP>99724106</CUSIP>
+    <CUSIP>099724106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Tapestry Inc.</CompanyName>
@@ -2273,7 +2273,7 @@
   <Stock>
     <CompanyName>W. R. Berkley Corporation</CompanyName>
     <Ticker>WRB</Ticker>
-    <CUSIP>84423102</CUSIP>
+    <CUSIP>084423102</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Mosaic Company</CompanyName>
@@ -2353,7 +2353,7 @@
   <Stock>
     <CompanyName>Globe Life Inc.</CompanyName>
     <Ticker>GL</Ticker>
-    <CUSIP>3.80E+106</CUSIP>
+    <CUSIP>03.8E+106</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>Campbell Soup Company</CompanyName>
@@ -2433,7 +2433,7 @@
   <Stock>
     <CompanyName>Alaska Air Group Inc.</CompanyName>
     <Ticker>ALK</Ticker>
-    <CUSIP>11659109</CUSIP>
+    <CUSIP>011659109</CUSIP>
   </Stock>
   <Stock>
     <CompanyName>IPG Photonics Corporation</CompanyName>

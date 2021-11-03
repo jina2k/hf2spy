@@ -10,11 +10,11 @@
 						<th>Market Value (x$1000)</th>
 						<th>Put/Call</th>
 					</tr>
-					<xsl:for-each select="result/opStock">
+					<xsl:for-each select="result/Stock">
 						<xsl:sort select="sum(pcs/value)" data-type="number" order="descending"/>
 						<tr>
 							<td>
-								<xsl:value-of select="namae"/>
+								<xsl:value-of select="nameOfIssuer"/>
 							</td>
 							<td>
 								<xsl:value-of select="sum(pcs/value)"/>

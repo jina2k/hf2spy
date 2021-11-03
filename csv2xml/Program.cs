@@ -17,7 +17,7 @@ namespace csv2xml
                 select new XElement("Stock",
                     new XElement("CompanyName", columns[0]),
                     new XElement("Ticker", columns[1]),
-                    new XElement("CUSIP", columns[2])
+                    new XElement("CUSIP", (columns[2].Length == 8) ? ("0" + columns[2]) : columns[2])
                 )
             );
 
