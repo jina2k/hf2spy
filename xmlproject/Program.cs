@@ -8,6 +8,8 @@ using System.Threading;
 using System.Xml;
 using System.Xml.Linq;
 using System.Xml.Xsl;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 namespace xmlproject
 {
@@ -172,13 +174,14 @@ namespace xmlproject
             }
 
             XDocument spydoc = XDocument.Load(Path.Combine(Environment.CurrentDirectory, @"Data\", "sandp500holdings.xml"));
-
+            XDocument result;
+            string secondxslt = "";
             if (arg4 == "y")
             {
 
                 //following code below can use modified doc as-is without saving the file first
 
-                Console.WriteLine("Please wait a few minutes...");
+                Console.WriteLine("Please wait a few seconds...");
                 XElement unionTest = new XElement("result",
                         (from first in newDocument.Root.Descendants()
                                 join second in spydoc.Root.Descendants()
@@ -189,33 +192,135 @@ namespace xmlproject
                                     second.Element("Ticker"),
                                     first.Elements("pcs"))));
 
-                XDocument result = new XDocument(
-                    new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format.xsl'"),
-                    unionTest);
-
-                result.Save("results.xml");
-                
+                result = new XDocument(unionTest);
+                secondxslt = @"<?xml version='1.0' encoding='utf-8'?>
+                <xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'>
+                <xsl:output indent='yes'/>
+                <xsl:template match='/'>
+	                <Root>
+		            <xsl:for-each select='result/Stock'>
+			            <xsl:sort select='sum(pcs/value)' data-type='number' order='descending'/>
+                        <Stock>
+                            <CompanyName><xsl:value-of select='CompanyName'/></CompanyName>
+				            <Ticker><xsl:value-of select='Ticker'/></Ticker>
+				            <totalval><xsl:value-of select='sum(pcs/value)'/></totalval>
+                            <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""SH""]) != 0'>
+                                    <pcs>
+                                    <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""SH""])'/></value>
+                                    <putCall>SH</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""Call""]) != 0'>
+                                    <pcs>
+                                    <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""Call""])'/></value>
+                                    <putCall>Call</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""Put""]) != 0'>
+                                    <pcs>
+                                    <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""Put""])'/></value>
+                                    <putCall>Put</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </Stock>
+		            </xsl:for-each>
+	                </Root>
+                </xsl:template>
+                </xsl:stylesheet>";
             }
             else
             {
-                Console.WriteLine("Please wait a few minutes...");
-                XElement body = new XElement("result",
-                    (from infotable in newDocument.Root.Descendants()
-                     select new XElement("Stock",
-                        infotable.Elements("nameOfIssuer"),
-                        infotable.Elements("pcs")
-                        )));
-
-                XDocument result = new XDocument(
-                    new XProcessingInstruction("xml-stylesheet", "type='text/xsl' href='format2.xsl'"),
-                    body);
-
-
-                result.Save("results.xml");
+                result = newDocument;
+                Console.WriteLine("Please wait a few seconds...");
+                secondxslt = @"<?xml version='1.0' encoding='utf-8'?>
+                <xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'>
+	            <xsl:template match='/'>
+                    <Root>
+					<xsl:for-each select='Root/Stock'>
+						<xsl:sort select='sum(pcs/value)' data-type='number' order='descending'/>
+                        <Stock>
+						    <nameOfIssuer><xsl:value-of select='nameOfIssuer'/></nameOfIssuer>
+                            <totalval><xsl:value-of select='sum(pcs/value)'/></totalval>
+						    <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""SH""]) != 0'>
+                                    <pcs>
+                                        <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""SH""])'/></value>
+                                        <putCall>SH</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""Call""]) != 0'>
+                                    <pcs>
+                                        <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""Call""])'/></value>
+                                        <putCall>Call</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                            <xsl:choose>
+                                <xsl:when test='sum(pcs/value[../putCall/text() = ""Put""]) != 0'>
+                                    <pcs>
+                                        <value><xsl:value-of select='sum(pcs/value[../putCall/text() = ""Put""])'/></value>
+                                        <putCall>Put</putCall>
+                                    </pcs>
+                                </xsl:when>
+                                <xsl:otherwise>
+                                </xsl:otherwise>
+                            </xsl:choose>
+                        </Stock>
+					</xsl:for-each>
+				    </Root>
+	            </xsl:template>
+                </xsl:stylesheet>";
             }
+
+            var finresult = new XDocument();
+
+            using (var stringReader = new StringReader(secondxslt))
+            {
+                using (XmlReader xsltReader = XmlReader.Create(stringReader))
+                {
+                    var transformer = new XslCompiledTransform();
+                    transformer.Load(xsltReader);
+                    using (XmlReader oldDocumentReader = result.CreateReader())
+                    {
+                        using (XmlWriter newDocumentWriter = finresult.CreateWriter())
+                        {
+                            transformer.Transform(oldDocumentReader, newDocumentWriter);
+                        }
+                    }
+                }
+            }
+
+            finresult.Save("sorted.xml");
+
+            var json = "var results = " + JsonConvert.SerializeXNode(finresult, Newtonsoft.Json.Formatting.Indented, true);
+
+            //setting it into a js file so it can be called, bypassing CORS
+            File.WriteAllText("results.js",json);
+
+            //Needs to output json onto webpage
+
             Console.WriteLine("Completed.");
 
-            Process.Start("C:\\Program Files\\Internet Explorer\\iexplore.exe", Path.Combine(Environment.CurrentDirectory, "results.xml"));
+            //automatically open up to default browser with results
+            Process.Start(@"cmd.exe ", @"/c " + "output.html");
         }
     }
 }

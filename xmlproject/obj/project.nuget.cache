@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W37uX6SoTcCYeNZ2DA3o6DzPEfpzhuO7jxgVc1xVO4YcdLh6wMpBx7bmqwSHjaUXnsA66weGAik/9GIcADzWug==",
+  "dgSpecHash": "lHRBBSAziba9eBYPCCKXpsHp6CBGrxQ65QxZoutwydpZnFvTEsrfDrJW9xMmSfNQLj/sjPoAGOvYq6cQABOCxg==",
   "success": true,
-  "projectFilePath": "D:\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

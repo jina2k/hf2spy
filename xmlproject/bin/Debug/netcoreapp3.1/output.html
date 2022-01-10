@@ -1,0 +1,79 @@
+<html>
+<head>
+    <script src="results.js"></script>
+    <script>
+        window.onload = function showResults() {
+            if (!results.hasOwnProperty("Stock")) {
+                //do nothing, shows blank results
+            }
+            else {
+                //check first stock to see if it has Ticker attribute
+                var hasTicker = results.Stock[0].hasOwnProperty("Ticker");
+
+                var tableheader = document.createElement("tr");
+
+                var tab = document.getElementById("resultTable");
+                //if it does then format table to include ticker else use nameOfIssuer
+                console.log(hasTicker);
+                if (hasTicker) {
+                    tableheader.innerHTML = "<th>Company Name</th><th>Ticker</th><th>Market Value (x$1000)</th><th>Put/Call</th>";
+                    tab.appendChild(tableheader);
+                    results.Stock.forEach(function(stok) {
+                        var tablerow = document.createElement("tr");
+                        let firstrow = "<td>" + stok.CompanyName + "</td>";
+                        firstrow += "<td>" + stok.Ticker + "</td>";
+                        firstrow += "<td>" + stok.totalval + "</td>";
+                        firstrow += "<td></td>"; //empty row b/c represents totalval
+                        tablerow.innerHTML = firstrow;
+                        tab.appendChild(tablerow);
+                        //appended first column that shows each company name, ticker, and total value of all holdings related to ticker
+
+                        for (var i = 0; i < stok.pcs.length; i++) {
+                            var tablerow2 = document.createElement("tr");
+                            let otherrow = "<td></td><td></td>";
+                            otherrow += "<td>" + stok.pcs[i]["value"] + "</td>";
+                            otherrow += "<td>" + stok.pcs[i]["putCall"] + "</td>";
+                            tablerow2.innerHTML = otherrow;
+                            tab.appendChild(tablerow2);
+                        }
+                    });
+                }
+                else {
+                    tableheader.innerHTML = "<th>Name of Issuer</th><th>Market Value (x$1000)</th><th>Put/Call</th>";
+                    tab.appendChild(tableheader);
+                    results.Stock.forEach(function(stok) {
+                        var tablerow = document.createElement("tr");
+                        let firstrow = "<td>" + stok.nameOfIssuer + "</td>";
+                        firstrow += "<td>" + stok.totalval + "</td>";
+                        firstrow += "<td></td>"; //empty row b/c represents totalval
+                        tablerow.innerHTML = firstrow;
+                        tab.appendChild(tablerow);
+                        //appended first column that shows each nameOfIssuer, and total value of all holdings related to ticker
+
+                        for (var i = 0; i < stok.pcs.length; i++) {
+                            var tablerow2 = document.createElement("tr");
+                            let otherrow = "<td></td>";
+                            otherrow += "<td>" + stok.pcs[i]["value"] + "</td>";
+                            otherrow += "<td>" + stok.pcs[i]["putCall"] + "</td>";
+                            tablerow2.innerHTML = otherrow;
+                            tab.appendChild(tablerow2);
+                        }
+                    });
+                }
+            }
+        }
+    </script>
+    <style>
+    table, th, td {
+        border: 1px solid black;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Results:</h1>
+    </div>
+    <table id="resultTable">
+    </table>
+</body>
+</html>

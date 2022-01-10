@@ -406,6 +406,11 @@
     <CUSIP>16119P108</CUSIP>
   </Stock>
   <Stock>
+	  <CompanyName>SPDR S&amp;P 500 ETF TR</CompanyName>
+	  <Ticker>SPY</Ticker>
+	  <CUSIP>78462F103</CUSIP>
+  </Stock>
+  <Stock>
     <CompanyName>S&amp;P Global Inc.</CompanyName>
     <Ticker>SPGI</Ticker>
     <CUSIP>78409V104</CUSIP>
