@@ -12,6 +12,19 @@ comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
 ~ 13fs of hedge funds such as citadel, credit suisse, used to cross-match CUSIP, add total market value. (XML Format)
 
+Citadel:
+</br>
+https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001423053
+</br>
+Credit Suisse:
+</br>
+https://www.sec.gov/edgar/browse/?CIK=824468
+</br>
+Blackrock:
+</br>
+https://www.sec.gov/edgar/browse/?CIK=1364742
+</br>
+
 ~ stackoverflow
 
 ~ https://stockmarketmba.com/index.php - used search bar to search up cusip because the s&p 500 data had incorrect CUSIP numbers.
