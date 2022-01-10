@@ -39,12 +39,12 @@ namespace xmlproject
             {
                 if (arg1 == "citadel")
                 {
-                    string filename = "citadelmay2021.xml";
+                    string filename = "citadel.xml";
                     fileloc = Path.Combine(Environment.CurrentDirectory, @"Data\", filename);
                 }
                 else if (arg1 == "cs")
                 {
-                    string filename = "creditsuissemay2021.xml";
+                    string filename = "creditsuisse.xml";
                     fileloc = Path.Combine(Environment.CurrentDirectory, @"Data\", filename);
                 }
                 else //other
