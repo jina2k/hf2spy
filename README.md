@@ -2,15 +2,28 @@
 comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
 ## How to Use
--Go to xmlproject
+-Go to xmlproject/bin/Debug/netcoreapp3.1
 
--Launch xmlproject(shortcut)
+-Launch xmlproject
 
 ## Resources
 
 ~ https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy - For finding the CUSIP/ticker symbol of every ticker in the s&p 500
 
 ~ 13fs of hedge funds such as citadel, credit suisse, used to cross-match CUSIP, add total market value. (XML Format)
+
+Citadel:
+</br>
+https://www.sec.gov/cgi-bin/browse-edgar?CIK=0001423053
+</br>
+Credit Suisse:
+</br>
+https://www.sec.gov/edgar/browse/?CIK=824468
+</br>
+Blackrock:
+</br>
+https://www.sec.gov/edgar/browse/?CIK=1364742
+</br>
 
 ~ stackoverflow
 
@@ -53,6 +66,10 @@ Added an option for checking holdings in general, sorted by value. This option d
 
 Also fixed edge cases where the entire string of the CUSIP did not transfer properly when scraping to csv, so now the sandp500holdings.xml file contains CUSIP lengths of only 9. (standardized to match XML files from SEC database)
 
+Transitioned into using JSON to display end result instead of XML. (Intended to bypass CORS doing this, realized I just needed to do XSL transformation beforehand. Also, JSON also has CORS issues unless I declare the data in a javascript file under a variable to be used in the output file.)
+
+Archived files from previous steps in the project into the branch "main". Branch "stable" will be used as the main branch now.
+
 ## Future Updates
 
-In the future, the project could transition into using JSON for displaying the end result instead. This would be a lot easier to work with and would be able to bypass some same-origin issues (https://stackoverflow.com/questions/3420513/firefox-and-remote-xsl-stylesheets), allowing the end result to be displayed on multiple browsers.
+With JSON being used now, the next step for the project is displaying the end result in a more modern like fashion with the use of CSS and related libraries.
