@@ -70,6 +70,8 @@ Transitioned into using JSON to display end result instead of XML. (Intended to 
 
 Archived files from previous steps in the project into the branch "main". Branch "stable" will be used as the main branch now.
 
+Added total value of holdings to judge if hedge funds were losing money over time or not.
+
 ## Future Updates
 
 With JSON being used now, the next step for the project is displaying the end result in a more modern like fashion with the use of CSS and related libraries.
