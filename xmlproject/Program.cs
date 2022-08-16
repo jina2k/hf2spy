@@ -198,6 +198,7 @@ namespace xmlproject
                 <xsl:output indent='yes'/>
                 <xsl:template match='/'>
 	                <Root>
+                    <totalvalue><xsl:value-of select='sum(result/Stock/pcs/value)'/></totalvalue>
 		            <xsl:for-each select='result/Stock'>
 			            <xsl:sort select='sum(pcs/value)' data-type='number' order='descending'/>
                         <Stock>
@@ -248,6 +249,7 @@ namespace xmlproject
                 <xsl:stylesheet version='1.0' xmlns:xsl='http://www.w3.org/1999/XSL/Transform'>
 	            <xsl:template match='/'>
                     <Root>
+                    <totalvalue><xsl:value-of select='sum(Root/Stock/pcs/value)'/></totalvalue>
 					<xsl:for-each select='Root/Stock'>
 						<xsl:sort select='sum(pcs/value)' data-type='number' order='descending'/>
                         <Stock>

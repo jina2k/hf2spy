@@ -13,11 +13,15 @@
                 var tableheader = document.createElement("tr");
 
                 var tab = document.getElementById("resultTable");
+                var total = document.createElement("tr");
+
                 //if it does then format table to include ticker else use nameOfIssuer
                 console.log(hasTicker);
                 if (hasTicker) {
                     tableheader.innerHTML = "<th>Company Name</th><th>Ticker</th><th>Market Value (x$1000)</th><th>Put/Call</th>";
                     tab.appendChild(tableheader);
+                    total.innerHTML = `<th></th><th></th><th>${results.totalvalue}</th><th></th>`;
+                    tab.appendChild(total);
                     results.Stock.forEach(function(stok) {
                         var tablerow = document.createElement("tr");
                         let firstrow = "<td>" + stok.CompanyName + "</td>";
@@ -41,6 +45,8 @@
                 else {
                     tableheader.innerHTML = "<th>Name of Issuer</th><th>Market Value (x$1000)</th><th>Put/Call</th>";
                     tab.appendChild(tableheader);
+                    total.innerHTML = `<th></th><th>${results.totalvalue}</th><th></th>`;
+                    tab.appendChild(total);
                     results.Stock.forEach(function(stok) {
                         var tablerow = document.createElement("tr");
                         let firstrow = "<td>" + stok.nameOfIssuer + "</td>";

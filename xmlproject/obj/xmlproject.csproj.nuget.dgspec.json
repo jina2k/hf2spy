@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj": {}
+    "C:\\Users\\Anthony\\Downloads\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj": {}
   },
   "projects": {
-    "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj": {
+    "C:\\Users\\Anthony\\Downloads\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
+        "projectUniqueName": "C:\\Users\\Anthony\\Downloads\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
         "projectName": "xmlproject",
-        "projectPath": "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
+        "projectPath": "C:\\Users\\Anthony\\Downloads\\dontdelete\\liq project\\hf2spy\\xmlproject\\xmlproject.csproj",
         "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-        "outputPath": "D:\\dontdelete\\liq project\\hf2spy\\xmlproject\\obj\\",
+        "outputPath": "C:\\Users\\Anthony\\Downloads\\dontdelete\\liq project\\hf2spy\\xmlproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
