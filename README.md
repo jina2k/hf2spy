@@ -6,6 +6,8 @@ comparing large holdings from hedge funds to the s&amp;p 500 using 13fs
 
 -Launch xmlproject
 
+-To find the right file when using the below links, look for 13F-HR and open filing, then look for the "information table.xml" file.
+
 ## Resources
 
 ~ https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-500-etf-trust-spy - For finding the CUSIP/ticker symbol of every ticker in the s&p 500
